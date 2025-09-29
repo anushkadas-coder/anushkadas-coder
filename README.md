@@ -105,7 +105,6 @@ I'm a third-year B.Tech student from Kolkata, West Bengal, and an aspiring **ML/
 
 * Train and manage a machine learning model with Azure Machine Learning - **Microsoft**
 * Understand data science for Machine Learning - **Microsoft**
-* Oracle Cloud Infrastructure 2025 Generative AI Professional - **Oracle**
 * Python for Data Science - **IBM**
 * Tata GenAI Powered Data Analytics Job Simulation - **Forage**
 * Software Engineer Intern - **United Latino Students Association United**
