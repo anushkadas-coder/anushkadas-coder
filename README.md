@@ -5,10 +5,9 @@
   <a href="https://linkedin.com/in/anushka-das-467437316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.kaggle.com/anushkadas2313002101"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <a href="https://github.com/anushkadas-coder"><img src="https://komarev.com/ghpvc/?username=anushkadas-coder&style=flat-square&color=blueviolet" alt="anushkadas-coder" /></a>
 </p>
 
-I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer** with strong research interests in Artificial Intelligence, exploring how intelligent systems can be applied to real-world challenges. Alongside my passion for AI, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms.
+I'm a third-year B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer** with strong research interests in Artificial Intelligence, exploring how intelligent systems can be applied to real-world challenges. Alongside my passion for AI, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms.
 
 <br />
 
@@ -65,58 +64,58 @@ I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer
 </p>
 
 ---
-## ✨ Experience
+## 💼 Experience
 
 ### **Pinnacle Labs** - *Artificial Intelligence Intern*
 *Remote | September 2025 (1 month)*
-* [cite_start]Gained practical experience in the end-to-end development of Artificial Intelligence and Machine Learning solutions[cite: 23].
-* [cite_start]Responsible for data preprocessing, training ML models, and performing model evaluation to address real-world challenges[cite: 24].
-* [cite_start]Collaborated with the team to acquire valuable skills in applied Al within a structured, professional environment[cite: 25].
+* Gained practical experience in the end-to-end development of Artificial Intelligence and Machine Learning solutions.
+* Responsible for data preprocessing, training ML models, and performing model evaluation to address real-world challenges.
+* Collaborated with the team to acquire valuable skills in applied Al within a structured, professional environment.
 
 ### **GSSoc '25** - *Open-Source Contributor*
 *Remote | July 2025 - September 2025*
-* [cite_start]Contributed to open-source projects by fixing bugs and adding features via GitHub[cite: 16].
-* [cite_start]Fixed multiple bugs and added new feature modules across 4 open-source repositories[cite: 16].
+* Contributed to open-source projects by fixing bugs and adding features via GitHub.
+* Fixed multiple bugs and added new feature modules across 4 open-source repositories.
 
 ### **CodSoft** - *Web Development Intern*
 *Remote | Aug 2025 - 1 month*
-* [cite_start]Built and enhanced responsive web pages using HTML, CSS and JavaScript[cite: 19].
-* [cite_start]Developed 6+ responsive web pages, improving UI accessibility[cite: 20].
+* Built and enhanced responsive web pages using HTML, CSS and JavaScript.
+* Developed 6+ responsive web pages, improving UI accessibility.
 
 ---
 ## 🚀 Projects
 
 ### **MABE Social Action Recognition in Mice (Kaggle Competition)**
-* [cite_start]**Technologies:** Python, Pandas, NumPy, Scikit-learn, LightGBM, Jupyter Notebook, Git [cite: 35]
-* [cite_start]Developed an end-to-end pipeline to classify 30+ mouse social behaviors from noisy, multi-lab pose-estimation data for a Kaggle competition[cite: 36].
-* [cite_start]Engineered kinematic and social dynamic features and trained a LightGBM model, using Group K-Fold validation and class weight 'balanced' to handle data inconsistencies and severe class imbalance[cite: 37].
+* **Technologies:** Python, Pandas, NumPy, Scikit-learn, LightGBM, Jupyter Notebook, Git
+* Developed an end-to-end pipeline to classify 30+ mouse social behaviors from noisy, multi-lab pose-estimation data for a Kaggle competition.
+* Engineered kinematic and social dynamic features and trained a LightGBM model, using Group K-Fold validation and class weight 'balanced' to handle data inconsistencies and severe class imbalance.
 
 ### **Customer Churn Prediction**
-* [cite_start]**Technologies:** Python, Scikit-learn, XGBoost, Streamlit [cite: 39]
-* [cite_start]Developed an end-to-end machine learning model to predict customer churn, achieving a 67% recall rate and an AUC score of 0.82[cite: 40].
-* [cite_start]Built and deployed an interactive web application using Streamlit for real-time predictions based on user inputs[cite: 41].
+* **Technologies:** Python, Scikit-learn, XGBoost, Streamlit
+* Developed an end-to-end machine learning model to predict customer churn, achieving a **67% recall rate** and an **AUC score of 0.82**.
+* Built and deployed an interactive web application using Streamlit for real-time predictions based on user inputs.
 
 ### **CineHorizon: A Movie Discovery Web App**
-* [cite_start]**Technologies:** JavaScript, CSS, HTML, REST API [cite: 43]
-* [cite_start]Developed a fully responsive movie discovery web application using vanilla JavaScript to create an intuitive and engaging user interface[cite: 44].
-* [cite_start]Integrated the TMDB REST API to dynamically fetch and display real-time movie data and deployed the application using GitHub Pages[cite: 45].
+* **Technologies:** JavaScript, CSS, HTML, REST API
+* Developed a fully responsive movie discovery web application using vanilla JavaScript to create an intuitive and engaging user interface.
+* Integrated the TMDB REST API to dynamically fetch and display real-time movie data and deployed the application using GitHub Pages.
 
 ---
 ## 🎓 Certifications
 
-* [cite_start]Train and manage a machine learning model with Azure Machine Learning - **Microsoft** [cite: 52]
-* [cite_start]Understand data science for Machine Learning - **Microsoft** [cite: 53]
-* [cite_start]Oracle Cloud Infrastructure 2025 Generative AI Professional - **Oracle** [cite: 55]
-* [cite_start]Python for Data Science - **IBM** [cite: 58]
-* [cite_start]Tata GenAI Powered Data Analytics Job Simulation - **Forage** [cite: 54]
-* [cite_start]Software Engineer Intern - **United Latino Students Association United** [cite: 57]
-* [cite_start]SQL (Basic) - **United Latino Students Association United** [cite: 59]
-* [cite_start]Google Play Academy Store Listing Certificate - **Google Play Academy** [cite: 56]
+* Train and manage a machine learning model with Azure Machine Learning - **Microsoft**
+* Understand data science for Machine Learning - **Microsoft**
+* Oracle Cloud Infrastructure 2025 Generative AI Professional - **Oracle**
+* Python for Data Science - **IBM**
+* Tata GenAI Powered Data Analytics Job Simulation - **Forage**
+* Software Engineer Intern - **United Latino Students Association United**
+* SQL (Basic) - **United Latino Students Association United**
+* Google Play Academy Store Listing Certificate - **Google Play Academy**
 
 ---
 ## 🏆 Honors & Awards
 
-* [cite_start]**HackerRank:** Gold Level (5 Star) in Python [cite: 61][cite_start], Silver Level (3 Star) in Java[cite: 62].
-* [cite_start]**Problem Solving:** Solved 150+ problems on LeetCode and Hacker Rank, improving algorithmic thinking and coding efficiency[cite: 63].
-* [cite_start]Occasionally participate in debate and quiz competitions, showcasing strong communication and critical thinking skills[cite: 65].
-* [cite_start]Active member of Samaritans social club since first year, contributing to community initiatives and collaborative events[cite: 66].
+* **HackerRank:** Gold Level (5 Star) in Python, Silver Level (3 Star) in Java.
+* **Problem Solving:** Solved 150+ problems on LeetCode and Hacker Rank, improving algorithmic thinking and coding efficiency.
+* Occasionally participate in debate and quiz competitions, showcasing strong communication and critical thinking skills.
+* Active member of Samaritans social club since first year, contributing to community initiatives and collaborative events.
