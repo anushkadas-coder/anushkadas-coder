@@ -106,7 +106,7 @@ I'm a third-year B.Tech student from Kolkata, West Bengal, and an aspiring **ML/
 * Train and manage a machine learning model with Azure Machine Learning - **Microsoft**
 * Understand data science for Machine Learning - **Microsoft**
 * Python for Data Science - **IBM**
-* Tata GenAI Powered Data Analytics Job Simulation - **Forage**
+* Tata GenAI Powered Data Analytics Job Simulation - **Forage(by Tata)**
 * Software Engineer Intern - **United Latino Students Association United**
 * SQL (Basic) - **United Latino Students Association United**
 * Google Play Academy Store Listing Certificate - **Google Play Academy**
