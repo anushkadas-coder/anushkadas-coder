@@ -4,8 +4,13 @@
 <a href="https://www.kaggle.com/anushkadas2313002101"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 
-I am a final-year Information Technology student at Techno Main Salt Lake with a passion for building end-to-end Machine Learning solutions. My experience spans AI internships, open-source contributions, and web development, where I enjoy turning complex problems into practical, user-friendly applications.
+I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer** with strong research interests in Artificial Intelligence, exploring how intelligent systems can be applied to real-world challenges. Alongside my passion for AI, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms.
 
+<br />
+
+> 🔭 **Currently seeking opportunities in Software Engineering and Machine Learning, where I can build impactful, data-driven solutions.**
+
+---
 ---
 ## ✨ Experience
 
