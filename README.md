@@ -125,6 +125,7 @@ I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer
 ## 🏆 Honors & Awards
 
 * **HackerRank:** Gold Level (5 Star) in Python, Silver Level (3 Star) in Java.
+* **SIH'25 Semi-Finalist:** Authenticity Validator for Academia: 'Digi-Pramaan'.
 * **Problem Solving:** Solved 150+ problems on LeetCode and Hacker Rank, improving algorithmic thinking and coding efficiency.
 * Occasionally participate in debate and quiz competitions, showcasing strong communication and critical thinking skills.
 * Active member of Samaritans social club since first year, contributing to community initiatives and collaborative events.
