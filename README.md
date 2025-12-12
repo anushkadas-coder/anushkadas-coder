@@ -82,6 +82,12 @@ I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer
 * Built and enhanced responsive web pages using HTML, CSS and JavaScript.
 * Developed 6+ responsive web pages, improving UI accessibility.
 
+### **Google-Kaggle** - *Google Certified Al Agent Development (Kaggle Intensive)*
+*Remote | 10-14 Nov 2025*
+* Selected for and completed Google's 5-Day Al Agents Intensive on Kaggle, building a portfolio of production-ready agents.
+* Learnt how to develop Multi-Agent Systems and stateful agents using Google's Agent Development Kit (ADK) and Gemini.
+* Mastered advanced Context Engineering for long-term agent memory and Agent Tool integration.
+
 ---
 ## 🚀 Projects
 
@@ -90,6 +96,13 @@ I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer
 * **Technologies:** Python, Pandas, NumPy, Scikit-learn, LightGBM, Jupyter Notebook, Git
 * Developed an end-to-end pipeline to classify 30+ mouse social behaviors from noisy, multi-lab pose-estimation data for a Kaggle competition.
 * Engineered kinematic and social dynamic features and trained a LightGBM model, using Group K-Fold validation and class weight 'balanced' to handle data inconsistencies and severe class imbalance.
+
+### **Digi-Pramaan (Semi-Finalist, Smart India Hackathon 2025)**
+**[GitHub Repo 🔗](https://github.com/Shahabaz322/cert-check-chain-main)**
+**[Project Presentation Link 🔗](https://drive.google.com/file/d/1YNFAIdtzoYnIWdD4DPYvm-2GMBY5duD9/view?usp=drivesdk)**
+* **Technologies:** Blockchain Optical, Character Recognition (OCR), MetaMask Wallet, Cryptography, Git
+* A decentralized platform addressing academic fraud. The solution combines OCR & Al for automated data extraction with the Ethereum Blockchain for immutable record-keeping.
+* Incorporated MetaMask for secure wallet integration, ensuring authenticated and tamper-proof certificate issuance.
 
 ### **Customer Churn Prediction**
 **[Live Demo 🚀](https://customer-churn-prediction-gxtodszh8pjk58rvawbfzg.streamlit.app)**
@@ -111,14 +124,14 @@ I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer
 
 ---
 ## 🎓 Certifications
-
+* Data Analytics Job Simulation with Deloitte Australia - **Deloitte**
+* Software Engineering Job Simulation - **JPMorgan chase co.**
 * Train and manage a machine learning model with Azure Machine Learning - **Microsoft**
 * Understand data science for Machine Learning - **Microsoft**
 * Oracle Cloud Infrastructure 2025 Generative AI Professional - **Oracle**
 * Python for Data Science - **IBM**
 * Tata GenAI Powered Data Analytics Job Simulation - **Forage**
 * Software Engineer Intern - **United Latino Students Association United**
-* SQL (Basic) - **United Latino Students Association United**
 * Google Play Academy Store Listing Certificate - **Google Play Academy**
 
 ---
