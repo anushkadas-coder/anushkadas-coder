@@ -3,6 +3,7 @@
 <p align="left">
   <a href="mailto:anushkadas05das@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://linkedin.com/in/anushka-das-467437316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://g.dev/anushkadas-coder"><img src="https://img.shields.io/badge/Google%20Developers-4285F4?style=for-the-badge&logo=google-developers&logoColor=white" alt="Google Developers"/></a>
   <a href="https://www.kaggle.com/anushkadas2313002101"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
@@ -66,14 +67,22 @@ I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer
 ---
 ## 💼 Experience
 
+### **Google for Developers** - *Member of Google's Women Techmakers*
+*Remote | Jan 2025 - present*
+* Engage in global community supporting women in tech through events, learning resources, and networking.
+
+### **Google for Developers** - *Google Cloud Innovotor*
+*Remote | Dec 2025 - present*
+* Stay connected with Google Cloud updates, expert sessions, and community insights to strengthen cloud skills.
+  
 ### **Pinnacle Labs** - *Artificial Intelligence Intern*
-*Remote | September 2025 (1 month)*
+*Remote | Sept 2025 (1 month)*
 * Gained practical experience in the end-to-end development of Artificial Intelligence and Machine Learning solutions.
 * Responsible for data preprocessing, training ML models, and performing model evaluation to address real-world challenges.
 * Collaborated with the team to acquire valuable skills in applied Al within a structured, professional environment.
 
 ### **GSSoc '25** - *Open-Source Contributor*
-*Remote | July 2025 - September 2025*
+*Remote | July 2025 - Sept 2025*
 * Contributed to open-source projects by fixing bugs and adding features via GitHub.
 * Fixed multiple bugs and added new feature modules across 4 open-source repositories.
 
@@ -128,11 +137,8 @@ I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer
 * Software Engineering Job Simulation - **JPMorgan chase co.**
 * Train and manage a machine learning model with Azure Machine Learning - **Microsoft**
 * Understand data science for Machine Learning - **Microsoft**
-* Oracle Cloud Infrastructure 2025 Generative AI Professional - **Oracle**
 * Python for Data Science - **IBM**
-* Tata GenAI Powered Data Analytics Job Simulation - **Forage**
-* Software Engineer Intern - **United Latino Students Association United**
-* Google Play Academy Store Listing Certificate - **Google Play Academy**
+* GenAI Powered Data Analytics Job Simulation - **Tata**
 
 ---
 ## 🏆 Honors & Awards
