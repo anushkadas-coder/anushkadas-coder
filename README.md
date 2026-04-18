@@ -87,7 +87,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 
 ### **CodSoft** - *Web Development Intern*
 *Remote | Aug 2025 - 1 month*
-* Built and enhanced responsive web pages using HTML, CSS and JavaScript.
+* Built and enhanced 6+ responsive web pages using HTML, CSS and JavaScript.
 * Developed 6+ responsive web pages, improving UI accessibility.
   
 
@@ -119,6 +119,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 
 ### **Customer Churn Prediction**
 **[Live Demo 🚀](https://customer-churn-prediction-gxtodszh8pjk58rvawbfzg.streamlit.app)**
+**[GitHub Repo 🔗](https://github.com/anushkadas-coder/Customer-Churn-Prediction)**
 * **Technologies:** Python, Scikit-learn, XGBoost, Streamlit
 * Developed an end-to-end machine learning model to predict customer churn, achieving a **67% recall rate** and an **AUC score of 0.82**.
 * Built and deployed an interactive web application using Streamlit for real-time predictions based on user inputs.
