@@ -1,4 +1,4 @@
-# Hello, I'm Anushka Das 👋
+# Hello, I'm Anushka 👋
 
 <p align="left">
   <a href="mailto:anushkadas05das@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -8,7 +8,7 @@
   <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
-I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer** with strong research interests in Artificial Intelligence, exploring how intelligent systems can be applied to real-world challenges. Alongside my passion for AI, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms.
+I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's Women Techmakers** since 2025. I'm an aspiring **ML/DL Engineer** with strong research interests in Artificial Intelligence and Machine Learning, exploring how intelligent systems can be applied to real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms.
 
 <br />
 
@@ -75,11 +75,10 @@ I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer
 *Remote | Dec 2025 - present*
 * Stay connected with Google Cloud updates, expert sessions, and community insights to strengthen cloud skills.
   
-### **Pinnacle Labs** - *Artificial Intelligence Intern*
-*Remote | Sept 2025 (1 month)*
-* Gained practical experience in the end-to-end development of Artificial Intelligence and Machine Learning solutions.
-* Responsible for data preprocessing, training ML models, and performing model evaluation to address real-world challenges.
-* Collaborated with the team to acquire valuable skills in applied Al within a structured, professional environment.
+### **Zetheta Algorithms Private Limited** - *Blockchain Risk Developer*
+*Remote | Jan 2026 (1 month)*
+* Engineered a vulnerability scanner for Solidity contracts to detect critical aws like Reentrancy and Access Control.
+* Developed an algorithmic market-making engine using the Avellaneda-Stoikov model to optimize bid-ask spreads and manage inventory risk.
 
 ### **GSSoc '25** - *Open-Source Contributor*
 *Remote | July 2025 - Sept 2025*
@@ -90,21 +89,26 @@ I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer
 *Remote | Aug 2025 - 1 month*
 * Built and enhanced responsive web pages using HTML, CSS and JavaScript.
 * Developed 6+ responsive web pages, improving UI accessibility.
-
-### **Google-Kaggle** - *Google Certified Al Agent Development (Kaggle Intensive)*
-*Remote | 10-14 Nov 2025*
-* Selected for and completed Google's 5-Day Al Agents Intensive on Kaggle, building a portfolio of production-ready agents.
-* Learnt how to develop Multi-Agent Systems and stateful agents using Google's Agent Development Kit (ADK) and Gemini.
-* Mastered advanced Context Engineering for long-term agent memory and Agent Tool integration.
+  
 
 ---
-## 🚀 Projects
+## 🚀 Some of My Projects
 
-### **MABE Social Action Recognition in Mice (Kaggle Competition)**
-**[GitHub Repo 🔗](https://github.com/anushkadas-coder/MABE-Mouse-Behavior-Recognition)**
-* **Technologies:** Python, Pandas, NumPy, Scikit-learn, LightGBM, Jupyter Notebook, Git
-* Developed an end-to-end pipeline to classify 30+ mouse social behaviors from noisy, multi-lab pose-estimation data for a Kaggle competition.
-* Engineered kinematic and social dynamic features and trained a LightGBM model, using Group K-Fold validation and class weight 'balanced' to handle data inconsistencies and severe class imbalance.
+### **DeepfakeDetector: Frequency-Based AI Inference Engine**
+**[Live Demo 🚀](https://deepfake-detection-engine.vercel.app)**
+**[GitHub Repo 🔗](https://github.com/anushkadas-coder/deepfake-detection-engine)**
+* **Technologies:** React, FastAPI, Python, PyTorch, OpenCV, Docker, 2D FFT, ResNet-18, Tailwind CSS
+* Engineered a frequency-domain AI engine utilizing 2D FFT and ResNet-18 (~11.1M params) to identify synthetic fingerprints invisible to 100% of standard spatial-only CNN architectures.
+* Achieved <1.8s end-to-end inference latency for high-resolution media by architecting a distributed React/FastAPI/Docker stack across 2 cloud environments (Vercel & Hugging Face).
+* Integrated a 3x3 Gaussian Micro-blur filter to neutralize sensor noise, effectively isolating high-frequency spectral artifacts to enhance detection robustness against modern Diffusion-based generators.
+  
+### **Deweathering Engine**
+**[Live Demo 🚀](https://deweathering-engine.vercel.app)**
+**[GitHub Repo 🔗](https://github.com/anushkadas-coder/deweathering-engine)**
+* **Technologies:** Python, React, FastAPI, OpenCV
+* Engineered a 2-tier full-stack React and FastAPI application using Robust Principal Component Analysis (RPCA) to mathematically extract clean text from degraded documents.
+* 95% Automated parameter tuning with a custom Adaptive Regularization heuristic, dynamically scaling the penalty parameter (0.4-0.8) based on matrix noise variance.
+* Achieved full document restoration in under 2.5 seconds via optimized OpenCV and NumPy operations, deployed across Render and Vercel cloud infrastructure.
 
 ### **Digi-Pramaan (Semi-Finalist, Smart India Hackathon 2025)**
 **[GitHub Repo 🔗](https://github.com/Shahabaz322/cert-check-chain-main)**
@@ -125,15 +129,9 @@ I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer
 * Developed a fully responsive movie discovery web application using vanilla JavaScript to create an intuitive and engaging user interface.
 * Integrated the TMDB REST API to dynamically fetch and display real-time movie data and deployed the application using GitHub Pages.
 
-### **GlowFit: A Modern Fitness Website**
-**[Live Demo 🚀](https://anushkadas-coder.github.io/GlowFit/)**
-* **Technologies:** React.js, HTML, CSS, JavaScript
-* Built a responsive multi-page UI with Programs, Trainers, and Join sections.
-* Integrated high-quality visuals and optimized layout for better user experience.
-
 ---
 ## 🎓 Certifications
-* Data Analytics Job Simulation with Deloitte Australia - **Deloitte**
+* Data Analytics Job Simulation with Deloitte Australia - **Deloitte Australia**
 * Software Engineering Job Simulation - **JPMorgan chase co.**
 * Train and manage a machine learning model with Azure Machine Learning - **Microsoft**
 * Understand data science for Machine Learning - **Microsoft**
@@ -145,6 +143,6 @@ I'm a B.Tech student from Kolkata, West Bengal, and an aspiring **ML/DL Engineer
 
 * **HackerRank:** Gold Level (5 Star) in Python, Silver Level (3 Star) in Java.
 * **SIH'25 Semi-Finalist:** Authenticity Validator for Academia: 'Digi-Pramaan'.
-* **Problem Solving:** Solved 150+ problems on LeetCode and Hacker Rank, improving algorithmic thinking and coding efficiency.
+* **Problem Solving:** Solved 350+ problems on LeetCode and Hacker Rank, improving algorithmic thinking and coding efficiency.
 * Occasionally participate in debate and quiz competitions, showcasing strong communication and critical thinking skills.
 * Active member of Samaritans social club since first year, contributing to community initiatives and collaborative events.
