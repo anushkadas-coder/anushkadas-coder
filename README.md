@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="150px" alt="Coding character" />
+  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="300px" alt="Coding character" />
 </p>
 
 <h1 align="center">
@@ -100,10 +100,8 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 * Developed and enhanced 6+ responsive web pages using HTML, CSS, and JavaScript, significantly improving UI accessibility.
   
 <p align="center">
-  <img src="https://media.tenor.com/6MAo4ZGn8bQAAAAM/watamote-tomoko.gif" width="200px" alt="Anime Coder" />
+  <img src="https://media.tenor.com/6MAo4ZGn8bQAAAAM/watamote-tomoko.gif" width="300px" alt="Anime Coder" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Some of My Projects
 
