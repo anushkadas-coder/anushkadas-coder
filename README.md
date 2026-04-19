@@ -77,7 +77,7 @@ I'm a B.Tech student from Kolkata, India and a member of **Google's Women Techma
 
 ## 👩🏻‍💻 Experience
 
-### **Google for Developers** - *Member of Google's Women Techmakers*
+### **Member of Google's Women Techmakers**
 *Remote | Jan 2025 - present*
 * Engage in global community supporting women in tech through events, learning resources, and networking.
 
