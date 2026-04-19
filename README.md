@@ -75,7 +75,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Experience
+## 👩🏻‍💻 Experience
 
 ### **Google for Developers** - *Member of Google's Women Techmakers*
 *Remote | Jan 2025 - present*
