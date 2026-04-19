@@ -34,7 +34,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ My Skills
+## 🛑 My Skills
 
 ### Languages
 <p align="left">
@@ -144,7 +144,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Honors, Awards & Certifications
+## 🎯 Honors, Awards & Certifications
 
 <details>
   <summary><b>🎓 View Certifications (Click to Expand)</b></summary>
