@@ -65,7 +65,6 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Google_Docs-4285F4.svg?style=flat-square&logo=google-docs&logoColor=white" alt="Google Docs"/>
