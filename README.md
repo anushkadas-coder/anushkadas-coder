@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/anushkadas-coder">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Anushka+Das+%E2%9C%A8;Aspiring+ML%2FDL+Engineer;AI+Researcher+%26+Developer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?hfont=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+Anushka+here!+%E2%9C%A8;Aspiring+ML%2FDL+Engineer;AI+Researcher+%26+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </h1>
 
