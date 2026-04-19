@@ -1,8 +1,8 @@
-<p align="left">
+<h1 align="center">
   <a href="https://github.com/anushkadas-coder">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&lines=Hello%2C+I'm+Anushka+%F0%9F%91%8B;Aspiring+ML%2FDL+Engineer;Web+Developer+%26+DSA+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Anushka+%F0%9F%91%8B;Aspiring+ML%2FDL+Engineer;AI+Researcher+%26+Web+Developer;DSA+Enthusiast" alt="Typing SVG" />
   </a>
-</p>
+</h1>
 
 <p align="left">
   <a href="mailto:anushkadas05das@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -18,16 +18,18 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 
 > 🔭 **Currently seeking opportunities in Software Engineering and Machine Learning, where I can build impactful, data-driven solutions.**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=transparent&text_color=FFFFFF&title_color=FFFFFF&border_radius=5&border_color=30A3DC" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkadas-coder&show_icons=true&theme=transparent&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&border_radius=5&border_color=30A3DC" alt="GitHub Stats" />
+</p>
+<br/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=transparent&text_color=FFFFFF&title_color=FFFFFF&border_radius=5&border_color=30A3DC" alt="Top Languages" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ## 🛠️ My Skills
 
 ### Languages
@@ -68,7 +70,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
   <img src="https://img.shields.io/badge/VHDL-000000.svg?style=for-the-badge&logo=--&logoColor=white" alt="VHDL"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ## 💼 Experience
 
 ### **Google for Developers** - *Member of Google's Women Techmakers*
@@ -93,7 +95,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 * Developed and enhanced 6+ responsive web pages using HTML, CSS, and JavaScript, significantly improving UI accessibility.
   
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ## 🚀 Some of My Projects
 
 ### **DeepfakeDetector: Frequency-Based AI Inference Engine**
@@ -132,7 +134,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 * Developed a fully responsive movie discovery web application using vanilla JavaScript to create an intuitive and engaging user interface.
 * Integrated the TMDB REST API to dynamically fetch and display real-time movie data and deployed the application using GitHub Pages.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ## 🎓 Certifications
 * Data Analytics Job Simulation with Deloitte Australia - **Deloitte Australia**
 * Software Engineering Job Simulation - **JPMorgan chase co.**
@@ -141,7 +143,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 * Python for Data Science - **IBM**
 * GenAI Powered Data Analytics Job Simulation - **Tata**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ## 🏆 Honors & Awards
 
 * **HackerRank:** Gold Level (5 Star) in Python, Silver Level (3 Star) in Java.
@@ -150,8 +152,4 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 * Occasionally participate in debate and quiz competitions, showcasing strong communication and critical thinking skills.
 * Active member of Samaritans social club since first year, contributing to community initiatives and collaborative events.
 
----
-## 🐍 My Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anushkadas-coder/anushkadas-coder/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+
