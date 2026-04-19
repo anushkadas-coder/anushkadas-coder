@@ -99,10 +99,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 *Remote | Aug 2025 (1 month)*
 * Developed and enhanced 6+ responsive web pages using HTML, CSS, and JavaScript, significantly improving UI accessibility.
   
-<p align="center">
-  <img src="<img width="735" height="717" alt="WhatsApp Image 2026-04-18 at 9 42 26 PM" src="https://github.com/user-attachments/assets/cc887215-c506-452c-ba4c-596f47b79eeb" />
-" width="300px" alt="Anime Coder" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Some of My Projects
 
