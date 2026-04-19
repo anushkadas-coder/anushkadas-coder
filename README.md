@@ -19,6 +19,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 > 🔭 **Currently seeking opportunities in Software Engineering and Machine Learning, where I can build impactful, data-driven solutions.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 📊 My GitHub Stats
 
 <p align="center">
@@ -30,6 +31,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🛠️ My Skills
 
 ### Languages
@@ -71,6 +73,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 💼 Experience
 
 ### **Google for Developers** - *Member of Google's Women Techmakers*
@@ -96,6 +99,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
   
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🚀 Some of My Projects
 
 ### **DeepfakeDetector: Frequency-Based AI Inference Engine**
@@ -144,6 +148,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 * GenAI Powered Data Analytics Job Simulation - **Tata**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🏆 Honors & Awards
 
 * **HackerRank:** Gold Level (5 Star) in Python, Silver Level (3 Star) in Java.
