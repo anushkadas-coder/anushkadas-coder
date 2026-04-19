@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/anushkadas-coder">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Anushka+%F0%9F%91%8B;Aspiring+ML%2FDL+Engineer;AI+Researcher+%26+Web+Developer;DSA+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Anushka+Das+%E2%9C%A8;Aspiring+ML%2FDL+Engineer;AI+Researcher+%26+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -20,14 +20,19 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats & Impact
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkadas-coder&show_icons=true&theme=transparent&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&border_radius=5&border_color=30A3DC" alt="GitHub Stats" />
-</p>
-<br/>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=transparent&text_color=FFFFFF&title_color=FFFFFF&border_radius=5&border_color=30A3DC" alt="Top Languages" />
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr align="center">
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=anushkadas-coder&show_icons=true&theme=transparent&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&border_radius=5&border_color=30A3DC" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=transparent&text_color=FFFFFF&title_color=FFFFFF&border_radius=5&border_color=30A3DC" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -139,22 +144,30 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 * Integrated the TMDB REST API to dynamically fetch and display real-time movie data and deployed the application using GitHub Pages.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-## 🎓 Certifications
-* Data Analytics Job Simulation with Deloitte Australia - **Deloitte Australia**
-* Software Engineering Job Simulation - **JPMorgan chase co.**
-* Train and manage a machine learning model with Azure Machine Learning - **Microsoft**
-* Understand data science for Machine Learning - **Microsoft**
-* Python for Data Science - **IBM**
-* GenAI Powered Data Analytics Job Simulation - **Tata**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🏆 Honors, Awards & Certifications
 
-## 🏆 Honors & Awards
+<details>
+  <summary><b>🎓 View Certifications (Click to Expand)</b></summary>
+  <br/>
+  <ul>
+    <li>Data Analytics Job Simulation - <b>Deloitte Australia</b></li>
+    <li>Software Engineering Job Simulation - <b>JPMorgan Chase & Co.</b></li>
+    <li>Train and manage a machine learning model with Azure Machine Learning - <b>Microsoft</b></li>
+    <li>Understand data science for Machine Learning - <b>Microsoft</b></li>
+    <li>Python for Data Science - <b>IBM</b></li>
+    <li>GenAI Powered Data Analytics Job Simulation - <b>Tata</b></li>
+  </ul>
+</details>
 
-* **HackerRank:** Gold Level (5 Star) in Python, Silver Level (3 Star) in Java.
-* **SIH'25 Semi-Finalist:** Authenticity Validator for Academia: 'Digi-Pramaan'.
-* **Problem Solving:** Solved 350+ problems on LeetCode and Hacker Rank, improving algorithmic thinking and coding efficiency.
-* Occasionally participate in debate and quiz competitions, showcasing strong communication and critical thinking skills.
-* Active member of Samaritans social club since first year, contributing to community initiatives and collaborative events.
-
+<details>
+  <summary><b>🥇 View Honors & Awards (Click to Expand)</b></summary>
+  <br/>
+  <ul>
+    <li><b>HackerRank:</b> Gold Level (5 Star) in Python, Silver Level (3 Star) in Java.</li>
+    <li><b>SIH '25 Semi-Finalist:</b> Authenticity Validator for Academia: 'Digi-Pramaan'.</li>
+    <li><b>Problem Solving:</b> Solved 350+ problems on LeetCode and HackerRank, improving algorithmic thinking and coding efficiency.</li>
+    <li><b>Extracurricular:</b> Active participant in debate/quiz competitions and member of the Samaritans social club since freshman year, organizing collaborative community events.</li>
+  </ul>
+</details>
 
