@@ -1,4 +1,8 @@
-# Hello, I'm Anushka 👋
+<p align="left">
+  <a href="https://github.com/anushkadas-coder">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&lines=Hello%2C+I'm+Anushka+%F0%9F%91%8B;Aspiring+ML%2FDL+Engineer;Web+Developer+%26+DSA+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="left">
   <a href="mailto:anushkadas05das@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -19,7 +23,7 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=tokyonight&border_radius=5&border_color=30A3DC" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=transparent&text_color=FFFFFF&title_color=FFFFFF&border_radius=5&border_color=30A3DC" />
   </a>
 </p>
 
@@ -71,24 +75,22 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 *Remote | Jan 2025 - present*
 * Engage in global community supporting women in tech through events, learning resources, and networking.
 
-### **Google for Developers** - *Google Cloud Innovotor*
+### **Google for Developers** - *Google Cloud Innovator*
 *Remote | Dec 2025 - present*
 * Stay connected with Google Cloud updates, expert sessions, and community insights to strengthen cloud skills.
   
 ### **Zetheta Algorithms Private Limited** - *Blockchain Risk Developer*
 *Remote | Jan 2026 (1 month)*
-* Engineered a vulnerability scanner for Solidity contracts to detect critical aws like Reentrancy and Access Control.
+* Engineered a vulnerability scanner for Solidity contracts to detect critical flaws like Reentrancy and Access Control.
 * Developed an algorithmic market-making engine using the Avellaneda-Stoikov model to optimize bid-ask spreads and manage inventory risk.
 
 ### **GSSoc '25** - *Open-Source Contributor*
 *Remote | July 2025 - Sept 2025*
-* Contributed to open-source projects by fixing bugs and adding features via GitHub.
-* Fixed multiple bugs and added new feature modules across 4 open-source repositories.
+* Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub.
 
 ### **CodSoft** - *Web Development Intern*
-*Remote | Aug 2025 - 1 month*
-* Built and enhanced 6+ responsive web pages using HTML, CSS and JavaScript.
-* Developed 6+ responsive web pages, improving UI accessibility.
+*Remote | Aug 2025 (1 month)*
+* Developed and enhanced 6+ responsive web pages using HTML, CSS, and JavaScript, significantly improving UI accessibility.
   
 
 ---
@@ -147,3 +149,9 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 * **Problem Solving:** Solved 350+ problems on LeetCode and Hacker Rank, improving algorithmic thinking and coding efficiency.
 * Occasionally participate in debate and quiz competitions, showcasing strong communication and critical thinking skills.
 * Active member of Samaritans social club since first year, contributing to community initiatives and collaborative events.
+
+---
+## 🐍 My Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anushkadas-coder/anushkadas-coder/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
