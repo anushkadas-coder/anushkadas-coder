@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" alt="Coding character" />
+</p>
+
 <h1 align="center">
   <a href="https://github.com/anushkadas-coder">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Anushka+Das+%E2%9C%A8;Aspiring+ML%2FDL+Engineer;AI+Researcher+%26+Developer;Problem+Solver" alt="Typing SVG" />
@@ -5,11 +9,11 @@
 </h1>
 
 <p align="left">
-  <a href="mailto:anushkadas05das@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/anushka-das-467437316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://g.dev/anushkadas-coder"><img src="https://img.shields.io/badge/Google%20Developers-4285F4?style=for-the-badge&logo=google-developers&logoColor=white" alt="Google Developers"/></a>
-  <a href="https://www.kaggle.com/anushkadas2313002101"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="mailto:anushkadas05das@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/anushka-das-467437316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://g.dev/anushkadas-coder"><img src="https://img.shields.io/badge/Google%20Developers-4285F4?style=flat-square&logo=google-developers&logoColor=white" alt="Google Developers"/></a>
+  <a href="https://www.kaggle.com/anushkadas2313002101"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
 I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's Women Techmakers** since 2025. I'm an aspiring **ML/DL Engineer** with strong research interests in Artificial Intelligence and Machine Learning, exploring how intelligent systems can be applied to real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms.
@@ -20,19 +24,12 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 My GitHub Stats & Impact
+## 📊 My GitHub Stats
 
 <p align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr align="center">
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=anushkadas-coder&show_icons=true&theme=transparent&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&border_radius=5&border_color=30A3DC" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=transparent&text_color=FFFFFF&title_color=FFFFFF&border_radius=5&border_color=30A3DC" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=tokyonight&border_radius=5&border_color=30A3DC" />
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -41,40 +38,40 @@ I'm a B.Tech student from Kolkata, West Bengal, India and a member of **Google's
 
 ### Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=sql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### Libraries & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/XGBoost-006600.svg?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/XGBoost-006600.svg?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/Flask-000000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Google_Docs-4285F4.svg?style=for-the-badge&logo=google-docs&logoColor=white" alt="Google Docs"/>
-  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Tally-000000.svg?style=for-the-badge&logo=--&logoColor=white" alt="Tally"/>
-  <img src="https://img.shields.io/badge/VHDL-000000.svg?style=for-the-badge&logo=--&logoColor=white" alt="VHDL"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Google_Docs-4285F4.svg?style=flat-square&logo=google-docs&logoColor=white" alt="Google Docs"/>
+  <img src="https://img.shields.io/badge/Excel-217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Tally-000000.svg?style=flat-square&logo=--&logoColor=white" alt="Tally"/>
+  <img src="https://img.shields.io/badge/VHDL-000000.svg?style=flat-square&logo=--&logoColor=white" alt="VHDL"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
