@@ -125,19 +125,19 @@ I'm a B.Tech student from Kolkata, India and a member of **Google's Women Techma
 * 95% Automated parameter tuning with a custom Adaptive Regularization heuristic, dynamically scaling the penalty parameter (0.4-0.8) based on matrix noise variance.
 * Achieved full document restoration in under 2.5 seconds via optimized OpenCV and NumPy operations, deployed across Render and Vercel cloud infrastructure.
 
-### **Digi-Pramaan (Semi-Finalist, Smart India Hackathon 2025)**
-**[GitHub Repo 🔗](https://github.com/Shahabaz322/cert-check-chain-main)**
-**[Project Presentation Link 🔗](https://drive.google.com/file/d/1YNFAIdtzoYnIWdD4DPYvm-2GMBY5duD9/view?usp=drivesdk)**
-* **Technologies:** Blockchain Optical, Character Recognition (OCR), MetaMask Wallet, Cryptography, Git
-* A decentralized platform addressing academic fraud. The solution combines OCR & Al for automated data extraction with the Ethereum Blockchain for immutable record-keeping.
-* Incorporated MetaMask for secure wallet integration, ensuring authenticated and tamper-proof certificate issuance.
-
 ### **Customer Churn Prediction**
 **[Live Demo 🚀](https://customer-churn-prediction-gxtodszh8pjk58rvawbfzg.streamlit.app)**
 **[GitHub Repo 🔗](https://github.com/anushkadas-coder/Customer-Churn-Prediction)**
 * **Technologies:** Python, Scikit-learn, XGBoost, Streamlit
 * Developed an end-to-end machine learning model to predict customer churn, achieving a **67% recall rate** and an **AUC score of 0.82**.
 * Built and deployed an interactive web application using Streamlit for real-time predictions based on user inputs.
+
+  ### **Digi-Pramaan (Semi-Finalist, Smart India Hackathon 2025)**
+**[GitHub Repo 🔗](https://github.com/Shahabaz322/cert-check-chain-main)**
+**[Project Presentation Link 🔗](https://drive.google.com/file/d/1YNFAIdtzoYnIWdD4DPYvm-2GMBY5duD9/view?usp=drivesdk)**
+* **Technologies:** Blockchain Optical, Character Recognition (OCR), MetaMask Wallet, Cryptography, Git
+* A decentralized platform addressing academic fraud. The solution combines OCR & Al for automated data extraction with the Ethereum Blockchain for immutable record-keeping.
+* Incorporated MetaMask for secure wallet integration, ensuring authenticated and tamper-proof certificate issuance.
 
 ### **CineHorizon: A Movie Discovery Web App**
 **[Live Demo 🚀](https://anushkadas-coder.github.io/CineHorizon/)**
