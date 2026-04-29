@@ -132,7 +132,7 @@ I'm a B.Tech student from Kolkata, India and a member of **Google's Women Techma
 * Developed an end-to-end machine learning model to predict customer churn, achieving a **67% recall rate** and an **AUC score of 0.82**.
 * Built and deployed an interactive web application using Streamlit for real-time predictions based on user inputs.
 
-  ### **Digi-Pramaan (Semi-Finalist, Smart India Hackathon 2025)**
+### **Digi-Pramaan (Semi-Finalist, Smart India Hackathon 2025)**
 **[GitHub Repo 🔗](https://github.com/Shahabaz322/cert-check-chain-main)**
 **[Project Presentation Link 🔗](https://drive.google.com/file/d/1YNFAIdtzoYnIWdD4DPYvm-2GMBY5duD9/view?usp=drivesdk)**
 * **Technologies:** Blockchain Optical, Character Recognition (OCR), MetaMask Wallet, Cryptography, Git
