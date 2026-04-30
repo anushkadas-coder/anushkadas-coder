@@ -75,7 +75,7 @@ I'm a B.Tech student from Kolkata, India and a member of **Google's Women Techma
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" width="200%">
 
 ## 👩🏻‍💻 Experience
 
