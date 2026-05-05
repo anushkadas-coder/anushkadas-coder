@@ -109,6 +109,14 @@ I'm a B.Tech student from Kolkata, India and a member of **Google's Women Techma
 
 ## 🚀 Some of My Projects
 
+### **Federated Fresh: Hybrid AI Orchestration Terminal**
+**[Live Demo 🚀]( https://federated-fresh-core.onrender.com)**
+**[GitHub Repo 🔗](https://github.com/anushkadas-coder/Federated_Fresh)**
+* **Technologies:** FastAPI, Google Gemini 2.5 Flash, ChromaDB, Python, DuckDuckGo API, CSS3/JS
+* Architected a hybrid AI routing engine that orchestrates between 3 distinct data streams—local ChromaDB retrieval, live web-search sweeps, and direct LLM inference—optimizing response accuracy across diverse query intents.
+* Reduced local memory overhead by 75% by offloading high-latency embedding calculations to the cloud (text-embedding-004), enabling stable production deployment on constrained 512MB RAM infrastructure.
+* Engineered an asynchronous RAG pipeline using FastAPI BackgroundTasks to achieve zero-lag user interface performance during the simultaneous semantic chunking and vector injection of multi-page documents.
+  
 ### **DeepfakeDetector: Frequency-Based AI Inference Engine**
 **[Live Demo 🚀](https://deepfake-detection-engine.vercel.app)**
 **[GitHub Repo 🔗](https://github.com/anushkadas-coder/deepfake-detection-engine)**
