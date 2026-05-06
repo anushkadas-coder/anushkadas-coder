@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://github.com/anushkadas-coder">
+  <a href="https://github.com/anushkadas-coder">l
     <img src="https://readme-typing-svg.herokuapp.com?hfont=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi!+Anushka+here!+%E2%9C%A8;Aspiring+ML%2FDL+Engineer;AIML+Researcher+%26+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </h1>
@@ -20,7 +20,7 @@ I'm a B.Tech student from Kolkata, India and a member of **Google's Women Techma
 
 <br />
 
-> 🔭 **Currently seeking opportunities in Software Engineering and Machine Learning, where I can build impactful, data-driven solutions.**
+> 🔭 **Currently seeking opportunities in Software Engineering and Machine Learning, and additionally in Data Analysis, where I can build impactful, data-driven solutions.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
