@@ -8,11 +8,11 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:anushkadas05das@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A5A54.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/anushka-das-467437316"><img src="https://img.shields.io/badge/LinkedIn-5C7791.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://g.dev/anushkadas-coder"><img src="https://img.shields.io/badge/Google%20Developers-697E9C?style=flat-square&logo=google-developers&logoColor=white" alt="Google Developers"/></a>
-  <a href="https://www.kaggle.com/anushkadas2313002101"><img src="https://img.shields.io/badge/Kaggle-6C94A3.svg?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-  <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-628C71.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="mailto:anushkadas05das@gmail.com"><img src="https://img.shields.io/badge/-A53224.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/anushka-das-467437316"><img src="https://img.shields.io/badge/-054481.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://g.dev/anushkadas-coder"><img src="https://img.shields.io/badge/-2A5EBA.svg?style=flat-square&logo=google-developers&logoColor=white" alt="Google Developers"/></a>
+  <a href="https://www.kaggle.com/anushkadas2313002101"><img src="https://img.shields.io/badge/-147CA8.svg?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/-1F8A43.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
 I'm a pre-final year IT undergrad student from Kolkata, India and a member of **Google's Women Techmakers** since 2025. I'm an aspiring **ML/DL Engineer** with strong research interests in Artificial Intelligence and Machine Learning, exploring how intelligent systems can be applied to real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms.
