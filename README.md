@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="450px" alt="Coding character" />
 </p>
-
 <h1 align="center">
   <a href="https://github.com/anushkadas-coder">l
     <img src="https://readme-typing-svg.herokuapp.com?hfont=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi!+Anushka+here!+%E2%9C%A8;Aspiring+ML%2FDL+Engineer;AIML+Researcher+%26+Developer;Problem+Solver" alt="Typing SVG" />
@@ -16,7 +15,7 @@
   <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
-I'm a pre-final year IT undergrad student from Kolkata, India and a member of **Google's Women Techmakers** since 2025. I'm an aspiring **ML/DL Engineer** with strong research interests in Artificial Intelligence and Machine Learning, exploring how intelligent systems can be applied to real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms (in C++).
+I'm a pre-final year IT undergrad student from Kolkata, India and a member of **Google's Women Techmakers** since 2025. I'm an aspiring **ML/DL Engineer** with strong research interests in Artificial Intelligence and Machine Learning, exploring how intelligent systems can be applied to real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms.
 
 <br />
 
