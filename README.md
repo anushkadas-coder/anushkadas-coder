@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="450px" alt="Coding character" />
 </p>
 <h1 align="center">
-  <a href="https://github.com/anushkadas-coder">l
+  <a href="https://github.com/anushkadas-coder">
     <img src="https://readme-typing-svg.herokuapp.com?hfont=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi!+Anushka+here!+%E2%9C%A8;Aspiring+ML%2FDL+Engineer;AIML+Researcher+%26+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </h1>
