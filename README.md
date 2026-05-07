@@ -26,11 +26,10 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=tokyonight&border_radius=5&border_color=30A3DC" />
-  </a>
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=tokyonight" 
+  />
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛑 My Skills
