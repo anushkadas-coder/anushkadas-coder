@@ -33,6 +33,26 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🔬 Research & Publications
+
+### **Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs**
+**[Read Paper 🔗](Deepfake_FFT_Submission.pdf)** *(Note: Make sure to upload this PDF to your repository or host it on Google Drive and replace this link!)*
+* **Domain:** 2D FFT, ResNet-18, PyTorch, Deepfake Detection
+* A novel, lightweight deepfake detection engine that isolates synthetic fingerprints in the frequency domain. Employs a micro-blur preprocessing pipeline to suppress superficial high-frequency spatial noise, followed by a 2D Fast Fourier Transform (FFT) to extract underlying spectral magnitude maps.
+* Achieved an accuracy of **99.12%** on FaceForensics++ and **98.45%** on Celeb-DF v2.
+* Outperforms comparable spatial baselines while maintaining real-time inference speeds of 45 FPS on edge devices.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Memberships & Affiliations
+
+### **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation**
+**[View IEEE Collabratec Profile 🔗](https://ieee-collabratec.ieee.org/app/p/anushka_tech)**
+* **Role:** Member
+* Active participant in the technical committee, exploring and engaging with the global community on the advancements and intersections of Artificial Intelligence, Machine Learning, and Automation.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
 ## 🛑 My Skills
 
 ### Languages
