@@ -172,6 +172,17 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Achieved full document restoration in under 2.5 seconds via optimized OpenCV and NumPy operations, deployed across Render and Vercel cloud infrastructure.
 
+### **DCO6: Polyphonic VST3 Synthesizer**
+**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/DCO6_synthesizer)**
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** C++, JUCE Framework, CMake, Audio DSP
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Engineered a 6-voice polyphonic VST3 synthesizer from scratch using C++ and the JUCE framework.
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Implemented a 4-pole Moog-style ladder filter, BBD stereo chorus, and independent amplitude/filter ADSR envelopes.
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Integrated a real-time FFT spectrum analyzer and custom UI components.
+
 ### **Customer Churn Prediction**
 **[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://customer-churn-prediction-gxtodszh8pjk58rvawbfzg.streamlit.app)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Customer-Churn-Prediction)**
 <br>
@@ -181,6 +192,17 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Built and deployed an interactive web application using Streamlit for real-time predictions based on user inputs.
 
+### **Psilocybe Cubensis: 3D Life Cycle Simulation**
+**[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/psilocybe_cubensis/)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/psilocybe_cubensis)**
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** JavaScript, Three.js, HTML5, WebGL
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Developed a real-time, procedural 3D simulation of the mushroom life cycle using vanilla JavaScript and Three.js.
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Implemented a highly optimized Space Colonization Algorithm utilizing a custom 3D Spatial Hash Grid to efficiently handle up to 40,000 mycelial nodes.
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Engineered mathematical procedural geometry generation, custom physics loops, dynamic canvas textures, and cinematic post-processing features including Unreal Bloom and a custom CRT shader.
+
 ### **Digi-Pramaan (Semi-Finalist, Smart India Hackathon 2025)**
 **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/Shahabaz322/cert-check-chain-main)** | **[Project Presentation Link <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://drive.google.com/file/d/1YNFAIdtzoYnIWdD4DPYvm-2GMBY5duD9/view?usp=drivesdk)**
 <br>
@@ -189,15 +211,6 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A decentralized platform addressing academic fraud. The solution combines OCR & Al for automated data extraction with the Ethereum Blockchain for immutable record-keeping.
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Incorporated MetaMask for secure wallet integration, ensuring authenticated and tamper-proof certificate issuance.
-
-### **CineHorizon: A Movie Discovery Web App**
-**[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/CineHorizon/)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** JavaScript, CSS, HTML, REST API
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Developed a fully responsive movie discovery web application using vanilla JavaScript to create an intuitive and engaging user interface.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Integrated the TMDB REST API to dynamically fetch and display real-time movie data and deployed the application using GitHub Pages.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
