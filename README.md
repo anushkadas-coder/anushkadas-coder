@@ -230,7 +230,7 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 </details>
 
 <details>
-  <summary><b><img src="https://api.iconify.design/pixelarticons/award.svg?color=%232EC866" width="16" align="center"> View Honors & Awards (Click to Expand)</b></summary>
+  <summary><b><img src="https://api.iconify.design/pixelarticons/trophy.svg?color=%232EC866" width="16" align="center"> View Honors & Awards (Click to Expand)</b></summary>
   <br/>
   <ul>
     <li><b>HackerRank:</b> Gold Level (5 Star) in Python, Silver Level (3 Star) in Java.</li>
