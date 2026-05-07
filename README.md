@@ -43,6 +43,15 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 * Outperforms comparable spatial baselines while maintaining real-time inference speeds of 45 FPS on edge devices.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🔖 Memberships & Affiliations
+
+### **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation**
+**[View IEEE Collabratec Profile 🔗](https://ieee-collabratec.ieee.org/app/p/anushka_tech)**
+* **Role:** Member
+* Active participant in the technical committee, exploring and engaging with the global community on the advancements and intersections of Artificial Intelligence, Machine Learning, and Automation.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
 ## 🛑 My Skills
 
@@ -85,13 +94,6 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" width="150%">
-
-## 🔖 Memberships & Affiliations
-
-### **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation**
-**[View IEEE Collabratec Profile 🔗](https://ieee-collabratec.ieee.org/app/p/anushka_tech)**
-* **Role:** Member
-* Active participant in the technical committee, exploring and engaging with the global community on the advancements and intersections of Artificial Intelligence, Machine Learning, and Automation.
 
 ## 👩🏻‍💻 Experience
 
