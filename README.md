@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">
   <a href="https://github.com/anushkadas-coder">
-    <img src="https://readme-typing-svg.herokuapp.com?hfont=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi!+Anushka+here!+%E2%9C%A8;Aspiring+ML%2FDL+Engineer;AIML+Researcher+%26+Developer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?hfont=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi!+Anushka+here!+%F0%9F%91%BE;Aspiring+ML%2FDL+Engineer;AIML+Researcher+%26+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -19,11 +19,11 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 
 <br />
 
-> 🔭 **Currently seeking opportunities in Software Engineering and Machine Learning, and additionally in Data Analysis, where I can build impactful, data-driven solutions.**
+> 📡 **Currently seeking opportunities in Software Engineering and Machine Learning, and additionally in Data Analysis, where I can build impactful, data-driven solutions.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 My GitHub Stats
+## 💽 My GitHub Stats
 
 <p align="center">
   <img 
@@ -33,7 +33,7 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📄 Research & Publications
+## 💾 Research & Publications
 
 ### **Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs**
 **[Read Paper 🔗](Deepfake_FFT_Submission.pdf)** *(Note: Make sure to upload this PDF to your repository or host it on Google Drive and replace this link!)*
@@ -44,7 +44,7 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔖 Memberships & Affiliations
+## 🔌 Memberships & Affiliations
 
 ### **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation**
 **[View IEEE Collabratec Profile 🔗](https://ieee-collabratec.ieee.org/app/p/anushka_tech)**
@@ -53,7 +53,7 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
-## 🛑 My Skills
+## ⚙️ My Skills
 
 ### Languages
 <p align="left">
@@ -95,7 +95,7 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" width="150%">
 
-## 👩🏻‍💻 Experience
+## 💻 Experience
 
 ### **Member of Google's Women Techmakers**
 *Remote | Jan 2025 - present*
@@ -125,10 +125,10 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="450px" alt="Coder" />
 </p>
 
-## 🚀 Some of My Projects
+## 👾 Some of My Projects
 
 ### **Federated Fresh: Hybrid AI Orchestration Terminal**
-**[Live Demo 🚀]( https://federated-fresh-core.onrender.com)**
+**[Live Demo 🛸]( https://federated-fresh-core.onrender.com)**
 **[GitHub Repo 🔗](https://github.com/anushkadas-coder/Federated_Fresh)**
 * **Technologies:** FastAPI, Google Gemini 2.5 Flash, ChromaDB, Python, DuckDuckGo API, CSS3/JS
 * Architected a hybrid AI routing engine that orchestrates between 3 distinct data streams—local ChromaDB retrieval, live web-search sweeps, and direct LLM inference—optimizing response accuracy across diverse query intents.
@@ -136,7 +136,7 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 * Engineered an asynchronous RAG pipeline using FastAPI BackgroundTasks to achieve zero-lag user interface performance during the simultaneous semantic chunking and vector injection of multi-page documents.
   
 ### **DeepfakeDetector: Frequency-Based AI Inference Engine**
-**[Live Demo 🚀](https://deepfake-detection-engine.vercel.app)**
+**[Live Demo 🛸](https://deepfake-detection-engine.vercel.app)**
 **[GitHub Repo 🔗](https://github.com/anushkadas-coder/deepfake-detection-engine)**
 * **Technologies:** React, FastAPI, Python, PyTorch, OpenCV, Docker, 2D FFT, ResNet-18, Tailwind CSS
 * Engineered a frequency-domain AI engine utilizing 2D FFT and ResNet-18 (~11.1M params) to identify synthetic fingerprints invisible to 100% of standard spatial-only CNN architectures.
@@ -144,7 +144,7 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 * Integrated a 3x3 Gaussian Micro-blur filter to neutralize sensor noise, effectively isolating high-frequency spectral artifacts to enhance detection robustness against modern Diffusion-based generators.
   
 ### **Deweathering Engine**
-**[Live Demo 🚀](https://deweathering-engine.vercel.app)**
+**[Live Demo 🛸](https://deweathering-engine.vercel.app)**
 **[GitHub Repo 🔗](https://github.com/anushkadas-coder/deweathering-engine)**
 * **Technologies:** Python, React, FastAPI, OpenCV
 * Engineered a 2-tier full-stack React and FastAPI application using Robust Principal Component Analysis (RPCA) to mathematically extract clean text from degraded documents.
@@ -152,7 +152,7 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 * Achieved full document restoration in under 2.5 seconds via optimized OpenCV and NumPy operations, deployed across Render and Vercel cloud infrastructure.
 
 ### **Customer Churn Prediction**
-**[Live Demo 🚀](https://customer-churn-prediction-gxtodszh8pjk58rvawbfzg.streamlit.app)**
+**[Live Demo 🛸](https://customer-churn-prediction-gxtodszh8pjk58rvawbfzg.streamlit.app)**
 **[GitHub Repo 🔗](https://github.com/anushkadas-coder/Customer-Churn-Prediction)**
 * **Technologies:** Python, Scikit-learn, XGBoost, Streamlit
 * Developed an end-to-end machine learning model to predict customer churn, achieving a **67% recall rate** and an **AUC score of 0.82**.
@@ -163,20 +163,20 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 **[Project Presentation Link 🔗](https://drive.google.com/file/d/1YNFAIdtzoYnIWdD4DPYvm-2GMBY5duD9/view?usp=drivesdk)**
 * **Technologies:** Blockchain Optical, Character Recognition (OCR), MetaMask Wallet, Cryptography, Git
 * A decentralized platform addressing academic fraud. The solution combines OCR & Al for automated data extraction with the Ethereum Blockchain for immutable record-keeping.
-* Incorporated MetaMask for secure wallet integration, ensuring authenticated and tamper-proof certificate issuance.
+* Incorporated MetaMask for secure wallet integration, ensuring authenticated and tamper-proof certificate issuance.
 
 ### **CineHorizon: A Movie Discovery Web App**
-**[Live Demo 🚀](https://anushkadas-coder.github.io/CineHorizon/)**
+**[Live Demo 🛸](https://anushkadas-coder.github.io/CineHorizon/)**
 * **Technologies:** JavaScript, CSS, HTML, REST API
 * Developed a fully responsive movie discovery web application using vanilla JavaScript to create an intuitive and engaging user interface.
 * Integrated the TMDB REST API to dynamically fetch and display real-time movie data and deployed the application using GitHub Pages.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 Honors, Awards & Certifications
+## 🕹️ Honors, Awards & Certifications
 
 <details>
-  <summary><b>🎓 View Certifications (Click to Expand)</b></summary>
+  <summary><b>📜 View Certifications (Click to Expand)</b></summary>
   <br/>
   <ul>
     <li>Data Analytics Job Simulation - <b>Deloitte Australia</b></li>
@@ -189,15 +189,14 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 </details>
 
 <details>
-  <summary><b>🥇 View Honors & Awards (Click to Expand)</b></summary>
+  <summary><b>🏆 View Honors & Awards (Click to Expand)</b></summary>
   <br/>
   <ul>
     <li><b>HackerRank:</b> Gold Level (5 Star) in Python, Silver Level (3 Star) in Java.</li>
     <li><b>SIH '25 Semi-Finalist:</b> Authenticity Validator for Academia: 'Digi-Pramaan', Top Finalist out of 250+ competing teams in the college internal round for the Smart India Hackathon(SIH) 2025.</li>
     <li><b>Problem Solving:</b> Solved 350+ problems on LeetCode and HackerRank, improving algorithmic thinking and coding efficiency.</li>
-    <li><b>Extracurricular:</b> Active member of Samaritans social club since rst year, contributing to community initiatives and
+    <li><b>Extracurricular:</b> Active member of Samaritans social club since first year, contributing to community initiatives and
 collaborative events and occasionally participate in debate and quiz competitions, showcasing strong
 communication and critical thinking skills.</li>
   </ul>
 </details>
-
