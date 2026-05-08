@@ -35,7 +35,7 @@ I'm an IT undergrad student from Kolkata, India and a member of **Google's Women
 ## <img src="https://api.iconify.design/pixelarticons/article.svg?color=%232EC866" width="28" align="center"> Research & Publications
 
 ### **Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs**
-**[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](Deepfake_FFT_Submission.pdf)**
+**[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
 **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Frequency-Domain-Deepfake-Detection)**
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Domain:** 2D FFT, ResNet-18, PyTorch, Deepfake Detection
