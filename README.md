@@ -165,22 +165,14 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** React, FastAPI, Python, PyTorch, OpenCV, Docker, 2D FFT, ResNet-18, Tailwind CSS
 <br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Engineered a frequency-domain AI engine utilizing 2D FFT and ResNet-18 (~11.1M params) to identify synthetic fingerprints invisible to 100% of standard spatial-only CNN architectures.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Achieved <1.8s end-to-end inference latency for high-resolution media by architecting a distributed React/FastAPI/Docker stack across 2 cloud environments (Vercel & Hugging Face).
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Integrated a 3x3 Gaussian Micro-blur filter to neutralize sensor noise, effectively isolating high-frequency spectral artifacts to enhance detection robustness against modern Diffusion-based generators.
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Neural Authenticity Engine: A full-stack deep learning pipeline identifying synthetic media via spectral fingerprinting and 2D FFT. Built with PyTorch (ResNet-18), it features a Gaussian-denoised inference engine and temporal aggregation for high-precision forensic analysis of images and videos.
   
 ### **Deweathering Engine**
 **[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://deweathering-engine.vercel.app)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/deweathering-engine)**
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** Python, React, FastAPI, OpenCV
 <br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Engineered a 2-tier full-stack React and FastAPI application using Robust Principal Component Analysis (RPCA) to mathematically extract clean text from degraded documents.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> 95% Automated parameter tuning with a custom Adaptive Regularization heuristic, dynamically scaling the penalty parameter (0.4-0.8) based on matrix noise variance.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Achieved full document restoration in under 2.5 seconds via optimized OpenCV and NumPy operations, deployed across Render and Vercel cloud infrastructure.
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center">A document restoration engine using Robust PCA (RPCA) to separate sparse text matrices from low-rank background noise. Built with FastAPI and React.
 
 ### **Customer Churn Prediction**
 **[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://customer-churn-prediction-gxtodszh8pjk58rvawbfzg.streamlit.app)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Customer-Churn-Prediction)**
