@@ -11,7 +11,6 @@
   <a href="mailto:anushkadas05das@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://linkedin.com/in/anushka-das-467437316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://g.dev/anushkadas-coder"><img src="https://img.shields.io/badge/Google%20Developers-4285F4?style=flat-square&logo=google-developers&logoColor=white" alt="Google Developers"/></a>
-  <a href="https://www.kaggle.com/anushkadas2313002101"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
