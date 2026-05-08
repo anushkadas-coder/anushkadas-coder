@@ -144,11 +144,7 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** FastAPI, Google Gemini 2.5 Flash, ChromaDB, Python, DuckDuckGo API, CSS3/JS
 <br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Architected a hybrid AI routing engine that orchestrates between 3 distinct data streams—local ChromaDB retrieval, live web-search sweeps, and direct LLM inference—optimizing response accuracy across diverse query intents.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Reduced local memory overhead by 75% by offloading high-latency embedding calculations to the cloud (text-embedding-004), enabling stable production deployment on constrained 512MB RAM infrastructure.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Engineered an asynchronous RAG pipeline using FastAPI BackgroundTasks to achieve zero-lag user interface performance during the simultaneous semantic chunking and vector injection of multi-page documents.
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center">  high-performance, multi-modal AI Terminal featuring Local RAG (ChromaDB), real-time Web Search integration, and Google Gemini 2.5 Flash reasoning. Optimized for low-memory (512MB RAM) cloud deployment.
   
 ### **DeepfakeDetector: Frequency-Based AI Inference Engine**
 **[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://deepfake-detection-engine.vercel.app)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/deepfake-detection-engine)**
