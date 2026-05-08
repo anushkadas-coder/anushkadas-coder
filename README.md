@@ -112,7 +112,7 @@ I'm an IT undergrad student from Kolkata, India and a member of **Google's Women
 | *Aug 2025 (1 month)* | *Web Development Intern* | CodSoft | Developed and enhanced 6+ responsive web pages using HTML, CSS, and JavaScript, significantly improving UI accessibility. |
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="450px" alt="Coder" />
+  <img src="https://media.tenor.com/YmJBgBqkzZcAAAAd/chicken-sound.gif" width="450px" alt="Coder" />
 </p>
 
 ## <img src="https://api.iconify.design/pixelarticons/folder.svg?color=%232EC866" width="28" align="center"> Some of My Projects
