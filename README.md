@@ -69,7 +69,9 @@ I'm an undergrad student from Kolkata, West Bengal currently pursuing my Bachelo
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<img src="https://raw.githubusercontent.com/coderoachsingh/coderoachsingh/output/github-contribution-grid-snake.svg" width="150%">
+<p align="center">
+  <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="450px" alt="Coder" />
+</p>
 
 ## <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="28" align="center"> Experience
 
