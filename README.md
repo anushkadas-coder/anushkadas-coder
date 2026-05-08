@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="500px" alt="Coding character" />
+  <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="500px" alt="Coding character" />
 </p>
 <h1 align="center">
   <a href="https://github.com/coderoachsingh">
@@ -33,7 +33,6 @@ I'm an undergrad student from Kolkata, West Bengal currently pursuing my Bachelo
 ## <img src="https://api.iconify.design/pixelarticons/users.svg?color=%232EC866" width="28" align="center"> Memberships & Affiliations
 
 ### **Microsoft Learn Student Ambassadors**
-<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Role:** Member (Jan 2025 - Present)
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Engaging with a global community of students to learn, build, and share Microsoft technologies, focusing on cloud architecture and development.
