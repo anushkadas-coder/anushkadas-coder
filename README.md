@@ -146,20 +146,6 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center">  high-performance, multi-modal AI Terminal featuring Local RAG (ChromaDB), real-time Web Search integration, and Google Gemini 2.5 Flash reasoning. Optimized for low-memory (512MB RAM) cloud deployment.
 
-### **DCO6: Polyphonic Software Synthesizer**
-**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/DCO6)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** C++, JUCE Framework, Digital Signal Processing (DSP)
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A 6-voice polyphonic VST3 plugin and standalone digital instrument built from scratch. Features strict real-time performance optimization, a 4-pole Moog-style ladder filter, and integrated real-time FFT spectrum analysis.
-
-### **Deep RL Double Q-Networks for Atari**
-**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Deep-Reinforcement-Learning-with-Double-Q-Networks-on-Atari-Games)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** Python, Deep Reinforcement Learning, Convolutional Neural Networks (CNN)
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A reinforcement learning agent utilizing a Double Deep Q-Network (DDQN) architecture to autonomously master Atari Space Invaders directly from raw pixel input, optimized with Experience Replay.
-  
 ### **DeepfakeDetector: Frequency-Based AI Inference Engine**
 **[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://deepfake-detection-engine.vercel.app)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/deepfake-detection-engine)**
 <br>
@@ -174,6 +160,20 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center">A document restoration engine using Robust PCA (RPCA) to separate sparse text matrices from low-rank background noise. Built with FastAPI and React.
 
+### **DCO6: Polyphonic Software Synthesizer**
+**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/DCO6)**
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** C++, JUCE Framework, Digital Signal Processing (DSP)
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A 6-voice polyphonic VST3 plugin and standalone digital instrument built from scratch. Features strict real-time performance optimization, a 4-pole Moog-style ladder filter, and integrated real-time FFT spectrum analysis.
+
+### **Deep RL Double Q-Networks for Atari**
+**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Deep-Reinforcement-Learning-with-Double-Q-Networks-on-Atari-Games)**
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** Python, Deep Reinforcement Learning, Convolutional Neural Networks (CNN)
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A reinforcement learning agent utilizing a Double Deep Q-Network (DDQN) architecture to autonomously master Atari Space Invaders directly from raw pixel input, optimized with Experience Replay.
+  
 ### **Customer Churn Prediction**
 **[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://customer-churn-prediction-gxtodszh8pjk58rvawbfzg.streamlit.app)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Customer-Churn-Prediction)**
 <br>
@@ -188,11 +188,7 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** JavaScript, Three.js, HTML5, WebGL
 <br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Developed a real-time, procedural 3D simulation of the mushroom life cycle using vanilla JavaScript and Three.js.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Implemented a highly optimized Space Colonization Algorithm utilizing a custom 3D Spatial Hash Grid to efficiently handle up to 40,000 mycelial nodes.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Engineered mathematical procedural geometry generation, custom physics loops, dynamic canvas textures, and cinematic post-processing features including Unreal Bloom and a custom CRT shader.
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A real-time 3D simulation of the Psilocybe Cubensis lifecycle. Space Colonization Algorithm, procedural geometry, spore physics. Single HTML file, no build step. Three.js r170.
 
 ### **Digi-Pramaan (Semi-Finalist, Smart India Hackathon 2025)**
 **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/Shahabaz322/cert-check-chain-main)** | **[Project Presentation Link <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://drive.google.com/file/d/1YNFAIdtzoYnIWdD4DPYvm-2GMBY5duD9/view?usp=drivesdk)**
