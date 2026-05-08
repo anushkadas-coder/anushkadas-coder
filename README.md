@@ -145,6 +145,20 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** FastAPI, Google Gemini 2.5 Flash, ChromaDB, Python, DuckDuckGo API, CSS3/JS
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center">  high-performance, multi-modal AI Terminal featuring Local RAG (ChromaDB), real-time Web Search integration, and Google Gemini 2.5 Flash reasoning. Optimized for low-memory (512MB RAM) cloud deployment.
+
+### **DCO6: Polyphonic Software Synthesizer**
+**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/DCO6)**
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** C++, JUCE Framework, Digital Signal Processing (DSP)
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A 6-voice polyphonic VST3 plugin and standalone digital instrument built from scratch. Features strict real-time performance optimization, a 4-pole Moog-style ladder filter, and integrated real-time FFT spectrum analysis.
+
+### **Deep RL Double Q-Networks for Atari**
+**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Deep-Reinforcement-Learning-with-Double-Q-Networks-on-Atari-Games)**
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** Python, Deep Reinforcement Learning, Convolutional Neural Networks (CNN)
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A reinforcement learning agent utilizing a Double Deep Q-Network (DDQN) architecture to autonomously master Atari Space Invaders directly from raw pixel input, optimized with Experience Replay.
   
 ### **DeepfakeDetector: Frequency-Based AI Inference Engine**
 **[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://deepfake-detection-engine.vercel.app)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/deepfake-detection-engine)**
@@ -167,17 +181,6 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> 95% Automated parameter tuning with a custom Adaptive Regularization heuristic, dynamically scaling the penalty parameter (0.4-0.8) based on matrix noise variance.
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Achieved full document restoration in under 2.5 seconds via optimized OpenCV and NumPy operations, deployed across Render and Vercel cloud infrastructure.
-
-### **DCO6: Polyphonic VST3 Synthesizer**
-**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/DCO6_synthesizer)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** C++, JUCE Framework, CMake, Audio DSP
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Engineered a 6-voice polyphonic VST3 synthesizer from scratch using C++ and the JUCE framework.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Implemented a 4-pole Moog-style ladder filter, BBD stereo chorus, and independent amplitude/filter ADSR envelopes.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Integrated a real-time FFT spectrum analyzer and custom UI components.
 
 ### **Customer Churn Prediction**
 **[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://customer-churn-prediction-gxtodszh8pjk58rvawbfzg.streamlit.app)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Customer-Churn-Prediction)**
