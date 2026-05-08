@@ -70,7 +70,7 @@ I'm an undergrad student from Kolkata, West Bengal currently pursuing my Bachelo
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <p align="center">
-  <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="450px" alt="Coder" />
+  <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="350px" alt="Coder" />
 </p>
 
 ## <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="28" align="center"> Experience
@@ -79,10 +79,6 @@ I'm an undergrad student from Kolkata, West Bengal currently pursuing my Bachelo
 | :--- | :--- | :--- | :--- |
 | *Jan 2025 - Present* | *Member* | Microsoft Learn Student Ambassadors | Engaging with the developer community and learning cloud/devops practices. |
 | *Internship* | *Intern* | Pinnacle Labs | Gained hands-on professional software development experience. |
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="450px" alt="Coder" />
-</p>
 
 ## <img src="https://api.iconify.design/pixelarticons/folder.svg?color=%232EC866" width="28" align="center"> Some of My Projects
 
