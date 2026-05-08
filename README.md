@@ -104,37 +104,6 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 
 ## <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="28" align="center"> Experience
 
-### **Member of Google's Women Techmakers**
-*Remote | Jan 2025 - present*
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Engage in global community supporting women in tech through events, learning resources, and networking.
-
-### **Google for Developers** - *Google Cloud Innovator*
-*Remote | Dec 2025 - present*
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Stay connected with Google Cloud updates, expert sessions, and community insights to strengthen cloud skills.
-  
-### **Zetheta Algorithms Private Limited** - *Blockchain Risk Developer*
-*Remote | Jan 2026 (1 month)*
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Engineered a vulnerability scanner for Solidity contracts to detect critical flaws like Reentrancy and Access Control.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Developed an algorithmic market-making engine using the Avellaneda-Stoikov model to optimize bid-ask spreads and manage inventory risk.
-
-### **GSSoc '25** - *Open-Source Contributor*
-*Remote | July 2025 - Sept 2025*
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub.
-
-### **CodSoft** - *Web Development Intern*
-*Remote | Aug 2025 (1 month)*
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Developed and enhanced 6+ responsive web pages using HTML, CSS, and JavaScript, significantly improving UI accessibility.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### :briefcase: Work Experience
-
 | Period | Role | Company | Highlights |
 | :--- | :--- | :--- | :--- |
 | *Jan 2025 - Present* | *Member of Google's Women Techmakers* | Google For Developers| Engage in global community supporting women in tech through events, learning resources, and networking. |
@@ -142,16 +111,6 @@ I'm a pre-final year IT undergrad student from Kolkata, India and a member of **
 | *Jan 2026 (1 month)* | *Blockchain Risk Developer* | Zetheta Algorithms Private Limited | Engineered a vulnerability scanner for Solidity contracts to detect critical flaws like Reentrancy and Access Control. |
 | *July 2025 - Sept 2025* | *Open-Source Contributor* | GSSoc '25 | Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub. |
 | *Aug 2025 (1 month)* | *Web Development Intern* | CodSoft | Developed and enhanced 6+ responsive web pages using HTML, CSS, and JavaScript, significantly improving UI accessibility. |
-
-
-
-
-
-
-
-
-
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="450px" alt="Coder" />
