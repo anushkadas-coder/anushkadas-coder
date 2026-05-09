@@ -138,6 +138,13 @@ I'm an IT undergrad student from Kolkata, India and a member of **Google's Women
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center">A document restoration engine using Robust PCA (RPCA) to separate sparse text matrices from low-rank background noise. Built with FastAPI and React.
 
+### **iNaturalist Clumper: Geospatial Data Engineering**
+**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/inaturalist_clumps)**
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** Python, Data Engineering, Spatial Algorithms, CLI 
+<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A Python command-line interface (CLI) tool designed to help users organize their iNaturalist data by grouping individual observations into meaningful clusters or "clumps", uses geographic and temporal thresholds (5 km / 3 hours) to consolidate individual sightings into cohesive data clusters with comprehensive JSON metadata.
+
 ### **DCO6: Polyphonic Software Synthesizer**
 **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/DCO6)**
 <br>
