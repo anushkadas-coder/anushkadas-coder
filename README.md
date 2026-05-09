@@ -187,6 +187,7 @@ I'm an IT undergrad student from Kolkata, India and a member of **Google's Women
   <ul>
     <li>Data Analytics Job Simulation - <b>Deloitte Australia</b></li>
     <li>Software Engineering Job Simulation - <b>JPMorgan Chase & Co.</b></li>
+     <li>Introduction to agent skills - <b>Anthropic Academy</b></li>
     <li>Train and manage a machine learning model with Azure Machine Learning - <b>Microsoft</b></li>
     <li>Understand data science for Machine Learning - <b>Microsoft</b></li>
     <li>Python for Data Science - <b>IBM</b></li>
