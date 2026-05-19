@@ -14,7 +14,7 @@
   <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
-I'm an IT undergrad student from Kolkata, India and a member of **Google's Women Techmakers** since 2025 and **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation**. I'm an aspiring **ML/DL Engineer** with strong research interests in Artificial Intelligence and Machine Learning, exploring how intelligent systems can be applied to real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms.
+I'm an IT undergrad and aspiring **ML/DL Engineer** from Kolkata, India. With a strong focus on Artificial Intelligence and Machine Learning, I build intelligent systems and full-stack AI applications to solve real-world challenges. I am also an active member of **Google's Women Techmakers** and the **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation**. 
 
 <br />
 
@@ -25,8 +25,8 @@ I'm an IT undergrad student from Kolkata, India and a member of **Google's Women
 ## <img src="https://api.iconify.design/pixelarticons/chart-bar.svg?color=%232EC866" width="28" align="center"> My GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=tokyonight" 
+  <img  
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=tokyonight"  
   />
 </p>
 
@@ -35,39 +35,18 @@ I'm an IT undergrad student from Kolkata, India and a member of **Google's Women
 ## <img src="https://api.iconify.design/pixelarticons/article.svg?color=%232EC866" width="28" align="center"> Research & Publications
 
 ### **Architectural Paradigms for Sovereign AI: Mitigating API Fragility through Quantized Low-Rank Adaptation and 1.58-bit Ternary Models**
-**[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Architectural_Paradigms_for_Sovereign_AI__Mitigating_API_Fragility_through_Quantized_Low_Rank_Adaptation_and_1_58_bit_Ternary_Models.pdf)**
-**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Architectural_Paradigms_for_SovereignAI)**
+**[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Architectural_Paradigms_for_Sovereign_AI__Mitigating_API_Fragility_through_Quantized_Low_Rank_Adaptation_and_1_58_bit_Ternary_Models.pdf)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Architectural_Paradigms_for_SovereignAI)**
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Domain:** QLoRA, BitNet 1.58-bit, Sovereign AI, PEFT
 <br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A rigorous methodology for deploying Sovereign AI through Small Language Models (SLMs) to mitigate API fragility. Investigates the synergy between 4-bit NormalFloat (NF4) quantization, native 1.58-bit ternary architectures, and Low-Rank Adaptation (LoRA) for specialized domains.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Achieved a **93% reduction** in inference OpEx for 7B–14B parameter models.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Demonstrated a Total Cost of Ownership (TCO) break-even point at **450 million tokens** processed compared to proprietary APIs.
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Investigates the synergy between 4-bit NormalFloat (NF4) quantization, native 1.58-bit ternary architectures, and Low-Rank Adaptation (LoRA) to deploy Sovereign AI via SLMs. Achieved a **93% reduction** in inference OpEx for 7B–14B parameter models with a TCO break-even point at **450 million tokens** processed compared to proprietary APIs.
 
 ### **Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs**
-**[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
-**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Frequency-Domain-Deepfake-Detection)**
+**[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Frequency-Domain-Deepfake-Detection)**
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Domain:** 2D FFT, ResNet-18, PyTorch, Deepfake Detection
 <br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A novel, lightweight deepfake detection engine that isolates synthetic fingerprints in the frequency domain. Employs a micro-blur preprocessing pipeline to suppress superficial high-frequency spatial noise, followed by a 2D Fast Fourier Transform (FFT) to extract underlying spectral magnitude maps.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Achieved an accuracy of **99.12%** on FaceForensics++ and **98.45%** on Celeb-DF v2.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Outperforms comparable spatial baselines while maintaining real-time inference speeds of 45 FPS on edge devices.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://api.iconify.design/pixelarticons/users.svg?color=%232EC866" width="28" align="center"> Memberships & Affiliations
-
-### **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation**
-**[View IEEE Collabratec Profile <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://ieee-collabratec.ieee.org/app/p/anushka_tech)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Role:** Member
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Active participant in the technical committee, exploring and engaging with the global community on the advancements and intersections of Artificial Intelligence, Machine Learning, and Automation.
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A lightweight deepfake detection engine utilizing a micro-blur preprocessing pipeline and 2D Fast Fourier Transform (FFT) to extract underlying spectral magnitude maps. Outperforms spatial baselines, achieving **99.12% accuracy** on FaceForensics++ while maintaining real-time inference at 45 FPS on edge devices.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
@@ -104,10 +83,6 @@ I'm an IT undergrad student from Kolkata, India and a member of **Google's Women
   <img src="https://img.shields.io/badge/Power_BI-F2C811.svg?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Windows-0078D6.svg?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Google_Docs-4285F4.svg?style=flat-square&logo=google-docs&logoColor=white" alt="Google Docs"/>
-  <img src="https://img.shields.io/badge/Excel-217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Tally-000000.svg?style=flat-square&logo=--&logoColor=white" alt="Tally"/>
-  <img src="https://img.shields.io/badge/VHDL-000000.svg?style=flat-square&logo=--&logoColor=white" alt="VHDL"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -127,42 +102,28 @@ I'm an IT undergrad student from Kolkata, India and a member of **Google's Women
   <img src="https://media.tenor.com/YmJBgBqkzZcAAAAd/chicken-sound.gif" width="400px" alt="Coder" />
 </p>
 
-## <img src="https://api.iconify.design/pixelarticons/folder.svg?color=%232EC866" width="28" align="center"> Some of My Projects
+## <img src="https://api.iconify.design/pixelarticons/folder.svg?color=%232EC866" width="28" align="center"> Top Projects
 
 ### **Federated Fresh: Hybrid AI Orchestration Terminal**
 **[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">]( https://federated-fresh-core.onrender.com)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Federated_Fresh)**
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** FastAPI, Google Gemini 2.5 Flash, ChromaDB, Python, DuckDuckGo API, CSS3/JS
 <br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center">  high-performance, multi-modal AI Terminal featuring Local RAG (ChromaDB), real-time Web Search integration, and Google Gemini 2.5 Flash reasoning. Optimized for low-memory (512MB RAM) cloud deployment.
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> High-performance, multi-modal AI Terminal featuring Local RAG (ChromaDB), real-time Web Search integration, and Google Gemini 2.5 Flash reasoning. Optimized for low-memory (512MB RAM) cloud deployment.
 
 ### **DeepfakeDetector: Frequency-Based AI Inference Engine**
 **[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://deepfake-detection-engine.vercel.app)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/deepfake-detection-engine)**
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** React, FastAPI, Python, PyTorch, OpenCV, Docker, 2D FFT, ResNet-18, Tailwind CSS
 <br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Neural Authenticity Engine: A full-stack deep learning pipeline identifying synthetic media via spectral fingerprinting and 2D FFT. Built with PyTorch (ResNet-18), it features a Gaussian-denoised inference engine and temporal aggregation for high-precision forensic analysis of images and videos.
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Neural Authenticity Engine: A full-stack deep learning pipeline identifying synthetic media via spectral fingerprinting and 2D FFT. Built with PyTorch (ResNet-18), featuring a Gaussian-denoised inference engine and temporal aggregation.
   
 ### **Deweathering Engine**
 **[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://deweathering-engine.vercel.app)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/deweathering-engine)**
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** Python, React, FastAPI, OpenCV
 <br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center">A document restoration engine using Robust PCA (RPCA) to separate sparse text matrices from low-rank background noise. Built with FastAPI and React.
-
-### **iNaturalist Clumper: Geospatial Data Engineering**
-**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/inaturalist_clumps)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** Python, Data Engineering, Spatial Algorithms, CLI 
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A Python command-line interface (CLI) tool designed to help users organize their iNaturalist data by grouping individual observations into meaningful clusters or "clumps", uses geographic and temporal thresholds (5 km / 3 hours) to consolidate individual sightings into cohesive data clusters with comprehensive JSON metadata.
-
-### **DCO6: Polyphonic Software Synthesizer**
-**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/DCO6)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** C++, JUCE Framework, Digital Signal Processing (DSP)
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A 6-voice polyphonic VST3 plugin and standalone digital instrument built from scratch. Features strict real-time performance optimization, a 4-pole Moog-style ladder filter, and integrated real-time FFT spectrum analysis.
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A document restoration engine leveraging the Inexact Augmented Lagrange Multiplier (IALM) algorithm and Robust PCA (RPCA) to separate sparse text matrices from low-rank background noise in heavily degraded documents.
 
 ### **Deep RL Double Q-Networks for Atari**
 **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Deep-Reinforcement-Learning-with-Double-Q-Networks-on-Atari-Games)**
@@ -176,25 +137,7 @@ I'm an IT undergrad student from Kolkata, India and a member of **Google's Women
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** Python, Scikit-learn, XGBoost, Streamlit
 <br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Developed an end-to-end machine learning model to predict customer churn, achieving a **67% recall rate** and an **AUC score of 0.82**.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Built and deployed an interactive web application using Streamlit for real-time predictions based on user inputs.
-
-### **Psilocybe Cubensis: 3D Life Cycle Simulation**
-**[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/psilocybe_cubensis/)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/psilocybe_cubensis)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** JavaScript, Three.js, HTML5, WebGL
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A real-time 3D simulation of the Psilocybe Cubensis lifecycle. Space Colonization Algorithm, procedural geometry, spore physics. Single HTML file, no build step. Three.js r170.
-
-### **Digi-Pramaan (Semi-Finalist, Smart India Hackathon 2025)**
-**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/Shahabaz322/cert-check-chain-main)** | **[Project Presentation Link <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://drive.google.com/file/d/1YNFAIdtzoYnIWdD4DPYvm-2GMBY5duD9/view?usp=drivesdk)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** Blockchain Optical, Character Recognition (OCR), MetaMask Wallet, Cryptography, Git
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A decentralized platform addressing academic fraud. The solution combines OCR & Al for automated data extraction with the Ethereum Blockchain for immutable record-keeping.
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Incorporated MetaMask for secure wallet integration, ensuring authenticated and tamper-proof certificate issuance.
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Developed an end-to-end machine learning model to predict telecom customer retention, achieving a **67% recall rate** and an **AUC score of 0.82**. Engine deployed as an interactive web application on Streamlit Community Cloud.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
