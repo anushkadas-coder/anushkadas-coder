@@ -14,7 +14,7 @@
   <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
-I'm an IT undergrad student from Kolkata, India and an active membe of **Google's Women Techmakers** and **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation**. I'm an aspiring **ML/DL Engineer** with a strong focus on Artificial Intelligence and Machine Learning, I build intelligent systems and full-stack AI applications to solve real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms.
+I'm an IT undergrad student from Kolkata, India and an active membe of **Google's Women Techmakers** and **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation**. I'm an aspiring **ML/DL Engineer** with a strong focus on Artificial Intelligence and Machine Learning, I build intelligent systems and full-stack AI applications to solve real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms. <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="25"/>
 
 <br />
 
