@@ -134,7 +134,8 @@ I'm an IT undergrad student from Kolkata, India and an active membe of **Google'
   <ul>
     <li><b>HackerRank:</b> Gold Level (5 Star) in Python, Silver Level (3 Star) in Java.</li>
     <li><b>SIH '25 Semi-Finalist:</b> Authenticity Validator for Academia: 'Digi-Pramaan', Top Finalist out of 250+ competing teams in the college internal round for the Smart India Hackathon(SIH) 2025.</li>
-    <li><b>Problem Solving:</b> Solved 350+ problems on LeetCode and HackerRank, improving algorithmic thinking and coding efficiency.</li>
+    <li><b>Problem Solving:</b> Solved 400+ problems on LeetCode and HackerRank, improving algorithmic thinking and coding efficiency.</li>
+    <li><b>Problem Solving:</b> Unexpectedly shortlisted via Foundit and successfully cleared an interview for a Business Administration/Management role as a 6th-semester undergrad. Secured a 2-month training program with a stipend, leading to a full-time offer — respectfully declined to focus on 6th-semester studies.</li>
     <li><b>Extracurricular:</b> Active member of Samaritans social club since first year, contributing to community initiatives and collaborative events and occasionally participate in debate and quiz competitions, showcasing strong communication and critical thinking skills.</li>
   </ul>
 </details>
