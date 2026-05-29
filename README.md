@@ -110,43 +110,6 @@ I'm an IT undergrad student from Kolkata, India and an active membe of **Google'
   <img src="https://media.tenor.com/YmJBgBqkzZcAAAAd/chicken-sound.gif" width="400px" alt="Coder" />
 </p>
 
-## <img src="https://api.iconify.design/pixelarticons/folder.svg?color=%232EC866" width="28" align="center"> Top Projects
-
-### **Federated Fresh: Hybrid AI Orchestration Terminal**
-**[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">]( https://federated-fresh-core.onrender.com)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Federated_Fresh)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** FastAPI, Google Gemini 2.5 Flash, ChromaDB, Python, DuckDuckGo API, CSS3/JS
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> High-performance, multi-modal AI Terminal featuring Local RAG (ChromaDB), real-time Web Search integration, and Google Gemini 2.5 Flash reasoning. Optimized for low-memory (512MB RAM) cloud deployment.
-
-### **DeepfakeDetector: Frequency-Based AI Inference Engine**
-**[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://deepfake-detection-engine.vercel.app)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/deepfake-detection-engine)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** React, FastAPI, Python, PyTorch, OpenCV, Docker, 2D FFT, ResNet-18, Tailwind CSS
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Neural Authenticity Engine: A full-stack deep learning pipeline identifying synthetic media via spectral fingerprinting and 2D FFT. Built with PyTorch (ResNet-18), featuring a Gaussian-denoised inference engine and temporal aggregation.
-  
-### **Deweathering Engine**
-**[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://deweathering-engine.vercel.app)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/deweathering-engine)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** Python, React, FastAPI, OpenCV
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A document restoration engine leveraging the Inexact Augmented Lagrange Multiplier (IALM) algorithm and Robust PCA (RPCA) to separate sparse text matrices from low-rank background noise in heavily degraded documents.
-
-### **Deep RL Double Q-Networks for Atari**
-**[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Deep-Reinforcement-Learning-with-Double-Q-Networks-on-Atari-Games)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** Python, Deep Reinforcement Learning, Convolutional Neural Networks (CNN)
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A reinforcement learning agent utilizing a Double Deep Q-Network (DDQN) architecture to autonomously master Atari Space Invaders directly from raw pixel input, optimized with Experience Replay.
-  
-### **Customer Churn Prediction**
-**[Live Demo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://customer-churn-prediction-gxtodszh8pjk58rvawbfzg.streamlit.app)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Customer-Churn-Prediction)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Technologies:** Python, Scikit-learn, XGBoost, Streamlit
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Developed an end-to-end machine learning model to predict telecom customer retention, achieving a **67% recall rate** and an **AUC score of 0.82**. Engine deployed as an interactive web application on Streamlit Community Cloud.
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://api.iconify.design/pixelarticons/trophy.svg?color=%232EC866" width="28" align="center"> Honors, Awards & Certifications
