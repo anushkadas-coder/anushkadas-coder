@@ -19,7 +19,7 @@ I'm an IT undergrad student from Kolkata, India and an active membe of **Google'
 
 <br />
 
-> <img src="https://api.iconify.design/pixelarticons/search.svg?color=%232EC866" width="18" align="center"> **Currently seeking opportunities in Software Engineering and Machine Learning, and additionally in Data Analysis, where I can build impactful, data-driven solutions.** <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="40"/> 
+> <img src="https://api.iconify.design/pixelarticons/search.svg?color=%232EC866" width="18" align="center"> **Currently seeking opportunities in Software Engineering and Machine Learning, and additionally in Data Analysis, where I can build impactful, data-driven solutions.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
