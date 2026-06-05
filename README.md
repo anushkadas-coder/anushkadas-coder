@@ -31,16 +31,6 @@ I'm an IT undergrad student from Kolkata, India and an active membe of **Google'
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://api.iconify.design/pixelarticons/chart-bar.svg?color=%232EC866" width="28" align="center"> My GitHub Stats
-
-<p align="center">
-  <img  
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=tokyonight"  
-  />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://api.iconify.design/pixelarticons/article.svg?color=%232EC866" width="28" align="center"> Research & Publications
 
 ### **Architectural Paradigms for Sovereign AI: Mitigating API Fragility through Quantized Low-Rank Adaptation and 1.58-bit Ternary Models (Officially Lived on SSRN)**
