@@ -20,9 +20,6 @@ I'm an IT undergrad student from Kolkata, India and an active membe of **Google'
 <br />
 
 > <img src="https://api.iconify.design/pixelarticons/search.svg?color=%232EC866" width="18" align="center"> **Currently seeking opportunities in Software Engineering and Machine Learning, and additionally in Data Analysis, where I can build impactful, data-driven solutions.**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://api.iconify.design/pixelarticons/monitor.svg?color=%232EC866" width="28" align="center"> My Portfolios
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Main Portfolio:** **[anushkadas-coder.github.io <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/)**
