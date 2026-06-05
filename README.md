@@ -25,6 +25,9 @@ I'm an IT undergrad student from Kolkata, India and an active membe of **Google'
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Main Portfolio:** **[anushkadas-coder.github.io <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/)**
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Freelance Portfolio:** **[anushkadas-coder.github.io/freelancerAnu <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/freelancerAnu/)**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## <img src="https://api.iconify.design/pixelarticons/article.svg?color=%232EC866" width="28" align="center"> Research & Publications
 
 ### **Architectural Paradigms for Sovereign AI: Mitigating API Fragility through Quantized Low-Rank Adaptation and 1.58-bit Ternary Models (Officially Lived on SSRN)**
@@ -93,9 +96,6 @@ I'm an IT undergrad student from Kolkata, India and an active membe of **Google'
 <p align="center">
   <img src="https://media.tenor.com/YmJBgBqkzZcAAAAd/chicken-sound.gif" width="400px" alt="Coder" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://api.iconify.design/pixelarticons/trophy.svg?color=%232EC866" width="28" align="center"> Honors, Awards & Certifications
 
 <details>
