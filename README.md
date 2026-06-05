@@ -46,7 +46,9 @@ I'm an IT undergrad student from Kolkata, India and an active membe of **Google'
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Domain:** 2D FFT, ResNet-18, PyTorch, Deepfake Detection
 <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A lightweight deepfake detection engine utilizing a micro-blur preprocessing pipeline and 2D Fast Fourier Transform (FFT) to extract underlying spectral magnitude maps. Outperforms spatial baselines, achieving **99.12% accuracy** on FaceForensics++ while maintaining real-time inference at 45 FPS on edge devices.
-  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="28" align="center"> My Skills
 
 ### Languages
@@ -83,7 +85,6 @@ I'm an IT undergrad student from Kolkata, India and an active membe of **Google'
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<img src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" width="150%">
 
 ## <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="28" align="center"> Experience
 
