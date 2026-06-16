@@ -60,7 +60,6 @@
 | Period | Role | Company | Highlights |
 | :--- | :--- | :--- | :--- |
 | *Jan 2025 - Present* | *Member of Google's Women Techmakers* | Google For Developers| Engage in global community supporting women in tech through events, learning resources, and networking. |
-| *Dec 2025 - Present* | *Google Cloud Innovator* | Google For Developers | Stay connected with Google Cloud updates, expert sessions, and community insights to strengthen cloud skills. |
 | *Jan 2026 (1 month)* | *Blockchain Risk Developer* | Zetheta Algorithms Private Limited | Engineered a vulnerability scanner for Solidity contracts to detect critical flaws like Reentrancy and Access Control. |
 | *July 2025 - Sept 2025* | *Open-Source Contributor* | GSSoc '25 | Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub. |
 | *Aug 2025 (1 month)* | *Web Development Intern* | CodSoft | Developed and enhanced 6+ responsive web pages using HTML, CSS, and JavaScript, significantly improving UI accessibility. |
