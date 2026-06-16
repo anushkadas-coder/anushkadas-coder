@@ -19,7 +19,6 @@
 
 <br />
 
-> <img src="https://api.iconify.design/pixelarticons/search.svg?color=%232EC866" width="18" align="center"> **Currently seeking opportunities in Software Engineering and Machine Learning, and additionally in Data Analysis, where I can build impactful, data-driven solutions.**
 ## <img src="https://api.iconify.design/pixelarticons/monitor.svg?color=%232EC866" width="28" align="center"> My Portfolios
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **[Main Portfolio <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/)**
