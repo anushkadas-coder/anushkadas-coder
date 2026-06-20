@@ -15,6 +15,11 @@
   <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anushkadas-coder&style=flat-square&color=2EC866&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/anushkadas-coder?style=flat-square&color=2EC866&label=Followers" alt="Followers"/>
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="40" align="left" />I'm an  IT undergrad and an **ML/DL Engineer** with strong research interests in AIML., I build intelligent systems and full-stack AI applications to solve real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms. <br><br>An active member of <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" height="16" align="center" /> **Google's Women Techmakers** and <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg" height="16" align="center" /> **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation** and <img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" align="center" /> **NVIDIA Developer Community**
 
@@ -97,3 +102,79 @@
     <li>GenAI Powered Data Analytics Job Simulation - <b>Tata</b></li>
   </ul>
 </details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://api.iconify.design/pixelarticons/zap.svg?color=%232EC866" width="28" align="center"> GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkadas-coder&show_icons=true&theme=github_dark&hide_border=true&title_color=2EC866&icon_color=2EC866&text_color=ffffff&bg_color=0d1117" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkadas-coder&theme=github-dark-blue&hide_border=true&stroke=2EC866&ring=2EC866&fire=ff6e6e&currStreakLabel=2EC866" width="48%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=github_dark&hide_border=true&title_color=2EC866&text_color=ffffff&bg_color=0d1117&langs_count=8" width="48%" alt="Top Languages"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://api.iconify.design/pixelarticons/activity.svg?color=%232EC866" width="28" align="center"> Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkadas-coder&bg_color=0d1117&color=2EC866&line=2EC866&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://api.iconify.design/pixelarticons/loader.svg?color=%232EC866" width="28" align="center"> Currently Building
+
+```python
+class Anushka:
+    def __init__(self):
+        self.name         = "Anushka Das"
+        self.role         = "ML/DL Engineer & AIML Researcher"
+        self.location     = "India 🇮🇳"
+        self.languages    = ["Python", "Java", "C++", "JavaScript", "SQL"]
+        self.interests    = ["Sovereign AI", "Deepfake Detection", "LLM Fine-tuning", "Edge Inference"]
+        self.communities  = ["Google WTM", "IEEE RA-TC-MLA", "NVIDIA Dev Community"]
+
+    def current_focus(self):
+        return [
+            "⚡ Exploring quantized LLM deployment on edge hardware",
+            "🔬 Researching multimodal deepfake detection pipelines",
+            "🛡️  Building blockchain smart contract security tooling",
+            "🌐 Contributing to open-source AI/ML projects",
+        ]
+
+    def fun_fact(self):
+        return "I debug faster with lo-fi music playing 🎵"
+
+me = Anushka()
+print(me.current_focus())
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://api.iconify.design/pixelarticons/git.svg?color=%232EC866" width="28" align="center"> Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushkadas-coder/anushkadas-coder/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushkadas-coder/anushkadas-coder/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/anushkadas-coder/anushkadas-coder/output/github-snake.svg" />
+  </picture>
+</p>
+
+> **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your repo at `.github/workflows/snake.yml` — it auto-generates the SVG on a schedule.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://api.iconify.design/pixelarticons/heart.svg?color=%232EC866" width="28" align="center"> Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EC866&height=100&section=footer&reversal=false&fontColor=ffffff" width="100%"/>
+</p>
