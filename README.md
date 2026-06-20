@@ -105,20 +105,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://api.iconify.design/pixelarticons/zap.svg?color=%232EC866" width="28" align="center"> GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkadas-coder&show_icons=true&theme=github_dark&hide_border=true&title_color=2EC866&icon_color=2EC866&text_color=ffffff&bg_color=0d1117" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkadas-coder&theme=github-dark-blue&hide_border=true&stroke=2EC866&ring=2EC866&fire=ff6e6e&currStreakLabel=2EC866" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=github_dark&hide_border=true&title_color=2EC866&text_color=ffffff&bg_color=0d1117&langs_count=8" width="48%" alt="Top Languages"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://api.iconify.design/pixelarticons/activity.svg?color=%232EC866" width="28" align="center"> Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkadas-coder&bg_color=0d1117&color=2EC866&line=2EC866&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
@@ -155,7 +142,7 @@ print(me.current_focus())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://api.iconify.design/pixelarticons/git.svg?color=%232EC866" width="28" align="center"> Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
