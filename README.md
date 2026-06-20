@@ -15,12 +15,6 @@
   <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anushkadas-coder&style=flat-square&color=2EC866&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/anushkadas-coder?style=flat-square&color=2EC866&label=Followers" alt="Followers"/>
-</p>
-
-
 <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="40" align="left" />I'm an  IT undergrad and an **ML/DL Engineer** with strong research interests in AIML., I build intelligent systems and full-stack AI applications to solve real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms. <br><br>An active member of <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" height="16" align="center" /> **Google's Women Techmakers** and <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg" height="16" align="center" /> **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation** and <img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" align="center" /> **NVIDIA Developer Community**
 
 <br />
@@ -140,19 +134,6 @@ me = Anushka()
 print(me.current_focus())
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushkadas-coder/anushkadas-coder/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushkadas-coder/anushkadas-coder/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/anushkadas-coder/anushkadas-coder/output/github-snake.svg" />
-  </picture>
-</p>
-
-> **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your repo at `.github/workflows/snake.yml` — it auto-generates the SVG on a schedule.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
