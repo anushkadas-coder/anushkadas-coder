@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/aad5448359b9d6d9f3d77196598d88cf/tumblr_ni8fapK0kM1ti3qaoo1_1280.gif" width="400px" alt="Coding character" />
+  <img src="https://media1.tenor.com/m/CXtASZlc-20AAAAC/watamote-tomoko-kuroki.gif" width="400px" alt="Coding character" />
 </p>
 <h1 align="center">
   <a href="https://github.com/anushkadas-coder">
