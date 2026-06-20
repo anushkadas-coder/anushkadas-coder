@@ -27,7 +27,6 @@
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs** | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="28" align="center"> My Skills
 
@@ -37,7 +36,6 @@
 | **<img src="https://api.iconify.design/pixelarticons/book.svg?color=%232EC866" width="20" align="center"> Libraries & Frameworks** | <img src="https://api.iconify.design/simple-icons/scikitlearn.svg?color=%23F7931E" width="20" align="center"/> Scikit-learn &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/pytorch.svg?color=%23EE4C2C" width="20" align="center"/> PyTorch &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/pandas.svg?color=white" width="20" align="center"/> Pandas &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/numpy.svg?color=%234DABCF" width="20" align="center"/> NumPy &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="20" align="center"/> XGBoost &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/flask.svg?color=white" width="20" align="center"/> Flask &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/fastapi.svg?color=%23009688" width="20" align="center"/> FastAPI &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/react.svg?color=%2361DAFB" width="20" align="center"/> React &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/openai.svg?color=white" width="20" align="center"/> OpenAI |
 | **<img src="https://api.iconify.design/pixelarticons/device-laptop.svg?color=%232EC866" width="20" align="center"> Tools & Platforms** | <img src="https://api.iconify.design/simple-icons/amazonaws.svg?color=%23FF9900" width="20" align="center"/> Amazon AWS &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/streamlit.svg?color=%23FF4B4B" width="20" align="center"/> Streamlit &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/git.svg?color=%23F05032" width="20" align="center"/> Git &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/jupyter.svg?color=%23F37626" width="20" align="center"/> Jupyter &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23F2C811" width="20" align="center"/> Power BI &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/docker.svg?color=%232496ED" width="20" align="center"/> Docker |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="28" align="center"> Experience
 
@@ -76,7 +74,6 @@ me = Anushka()
 print(me.current_focus())
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://api.iconify.design/pixelarticons/trophy.svg?color=%232EC866" width="28" align="center"> Honors, Awards & Certifications
 
@@ -106,7 +103,6 @@ print(me.current_focus())
   </ul>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://api.iconify.design/pixelarticons/trending-up.svg?color=%232EC866" width="28" align="center"> Contribution Graph
 
@@ -114,8 +110,6 @@ print(me.current_focus())
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkadas-coder&bg_color=0d1117&color=2EC866&line=2EC866&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </p>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
   <img src="https://media1.tenor.com/m/o3nueNFM298AAAAC/tomoko-kuroki-watamote.gif" width="400px" alt="Coder" />
