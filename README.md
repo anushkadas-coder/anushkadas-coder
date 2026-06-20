@@ -91,10 +91,6 @@ me = Anushka()
 print(me.current_focus())
 ```
 
-<p align="center">
-  <img src="https://media.tenor.com/YmJBgBqkzZcAAAAd/chicken-sound.gif" width="400px" alt="Coder" />
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://api.iconify.design/pixelarticons/trophy.svg?color=%232EC866" width="28" align="center"> Honors, Awards & Certifications
@@ -132,35 +128,6 @@ print(me.current_focus())
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkadas-coder&bg_color=0d1117&color=2EC866&line=2EC866&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://api.iconify.design/pixelarticons/loader.svg?color=%232EC866" width="28" align="center"> Currently Building
-
-```python
-class Anushka:
-    def __init__(self):
-        self.name         = "Anushka Das"
-        self.role         = "ML/DL Engineer & AIML Researcher"
-        self.location     = "India 🇮🇳"
-        self.languages    = ["Python", "Java", "C++", "JavaScript", "SQL"]
-        self.interests    = ["Sovereign AI", "Deepfake Detection", "LLM Fine-tuning", "Edge Inference"]
-        self.communities  = ["Google WTM", "IEEE RA-TC-MLA", "NVIDIA Dev Community"]
-
-    def current_focus(self):
-        return [
-            "⚡ Exploring quantized LLM deployment on edge hardware",
-            "🔬 Researching multimodal deepfake detection pipelines",
-            "🛡️  Building blockchain smart contract security tooling",
-            "🌐 Contributing to open-source AI/ML projects",
-        ]
-
-    def fun_fact(self):
-        return "I debug faster with lo-fi music playing 🎵"
-
-me = Anushka()
-print(me.current_focus())
-```
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
