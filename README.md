@@ -27,12 +27,7 @@
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Architectural Paradigms for Sovereign AI: Mitigating API Fragility through Quantized Low-Rank Adaptation and 1.58-bit Ternary Models** | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Architectural_Paradigms_for_Sovereign_AI__Mitigating_API_Fragility_through_Quantized_Low_Rank_Adaptation_and_1_58_bit_Ternary_Models.pdf)**
 
-<br>
-
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs** | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
