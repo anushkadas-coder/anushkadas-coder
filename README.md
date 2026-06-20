@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="400px" alt="Coding character" />
+  <img src="https://media.tenor.com/Ob9ma9VMNssAAAAC/tomoko-kuroki.gif" width="400px" alt="Coding character" />
 </p>
 <h1 align="center">
   <a href="https://github.com/anushkadas-coder">
@@ -15,40 +15,18 @@
   <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anushkadas-coder&style=flat-square&color=2EC866&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/anushkadas-coder?style=flat-square&color=2EC866&label=Followers" alt="Followers"/>
-</p>
-
-
 <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="40" align="left" />I'm an  IT undergrad and an **ML/DL Engineer** with strong research interests in AIML., I build intelligent systems and full-stack AI applications to solve real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms. <br><br>An active member of <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" height="16" align="center" /> **Google's Women Techmakers** and <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg" height="16" align="center" /> **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation** and <img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" align="center" /> **NVIDIA Developer Community**
 
-<br />
 
-## <img src="https://api.iconify.design/pixelarticons/monitor.svg?color=%232EC866" width="28" align="center"> My Portfolios
+### <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="28" align="center"> **[My Portfolio ](https://anushkadas-coder.github.io/)**
 
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **[Main Portfolio <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **[Freelance Portfolio <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/freelancerAnu/)**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://api.iconify.design/pixelarticons/article.svg?color=%232EC866" width="28" align="center"> Research & Publications
 
-### **Architectural Paradigms for Sovereign AI: Mitigating API Fragility through Quantized Low-Rank Adaptation and 1.58-bit Ternary Models (Officially Lived on SSRN)**
-**[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Architectural_Paradigms_for_Sovereign_AI__Mitigating_API_Fragility_through_Quantized_Low_Rank_Adaptation_and_1_58_bit_Ternary_Models.pdf)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Architectural_Paradigms_for_SovereignAI)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Domain:** QLoRA, BitNet 1.58-bit, Sovereign AI, PEFT
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> Investigates the synergy between 4-bit NormalFloat (NF4) quantization, native 1.58-bit ternary architectures, and Low-Rank Adaptation (LoRA) to deploy Sovereign AI via SLMs. Achieved a **93% reduction** in inference OpEx for 7B–14B parameter models with a TCO break-even point at **450 million tokens** processed compared to proprietary APIs.
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Architectural Paradigms for Sovereign AI: Mitigating API Fragility through Quantized Low-Rank Adaptation and 1.58-bit Ternary Models** | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Architectural_Paradigms_for_Sovereign_AI__Mitigating_API_Fragility_through_Quantized_Low_Rank_Adaptation_and_1_58_bit_Ternary_Models.pdf)**
 
-### **Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs**
-**[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)** | **[GitHub Repo <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://github.com/anushkadas-coder/Frequency-Domain-Deepfake-Detection)**
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Domain:** 2D FFT, ResNet-18, PyTorch, Deepfake Detection
-<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> A lightweight deepfake detection engine utilizing a micro-blur preprocessing pipeline and 2D Fast Fourier Transform (FFT) to extract underlying spectral magnitude maps. Outperforms spatial baselines, achieving **99.12% accuracy** on FaceForensics++ while maintaining real-time inference at 45 FPS on edge devices.
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs** | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="28" align="center"> My Skills
 
@@ -58,7 +36,6 @@
 | **<img src="https://api.iconify.design/pixelarticons/book.svg?color=%232EC866" width="20" align="center"> Libraries & Frameworks** | <img src="https://api.iconify.design/simple-icons/scikitlearn.svg?color=%23F7931E" width="20" align="center"/> Scikit-learn &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/pytorch.svg?color=%23EE4C2C" width="20" align="center"/> PyTorch &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/pandas.svg?color=white" width="20" align="center"/> Pandas &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/numpy.svg?color=%234DABCF" width="20" align="center"/> NumPy &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="20" align="center"/> XGBoost &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/flask.svg?color=white" width="20" align="center"/> Flask &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/fastapi.svg?color=%23009688" width="20" align="center"/> FastAPI &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/react.svg?color=%2361DAFB" width="20" align="center"/> React &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/openai.svg?color=white" width="20" align="center"/> OpenAI |
 | **<img src="https://api.iconify.design/pixelarticons/device-laptop.svg?color=%232EC866" width="20" align="center"> Tools & Platforms** | <img src="https://api.iconify.design/simple-icons/amazonaws.svg?color=%23FF9900" width="20" align="center"/> Amazon AWS &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/streamlit.svg?color=%23FF4B4B" width="20" align="center"/> Streamlit &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/git.svg?color=%23F05032" width="20" align="center"/> Git &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/jupyter.svg?color=%23F37626" width="20" align="center"/> Jupyter &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23F2C811" width="20" align="center"/> Power BI &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/docker.svg?color=%232496ED" width="20" align="center"/> Docker |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="28" align="center"> Experience
 
@@ -69,11 +46,34 @@
 | *July 2025 - Sept 2025* | *Open-Source Contributor* | GSSoc '25 | Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub. |
 | *Aug 2025 (1 month)* | *Web Development Intern* | CodSoft | Developed and enhanced 6+ responsive web pages using HTML, CSS, and JavaScript, significantly improving UI accessibility. |
 
-<p align="center">
-  <img src="https://media.tenor.com/YmJBgBqkzZcAAAAd/chicken-sound.gif" width="400px" alt="Coder" />
-</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## <img src="https://api.iconify.design/pixelarticons/loader.svg?color=%232EC866" width="28" align="center"> Currently Building
+
+```python
+class Anushka:
+    def __init__(self):
+        self.name         = "Anushka"
+        self.role         = "ML/DL Engineer & AIML Researcher"
+        self.location     = "India 🇮🇳"
+        self.languages    = ["Python", "Java", "C++", "JavaScript", "SQL"]
+        self.interests    = ["Sovereign AI", "Deepfake Detection", "LLM Fine-tuning", "Edge Inference"]
+        self.communities  = ["Google WTM", "IEEE RA-TC-MLA", "NVIDIA Dev Community"]
+
+    def current_focus(self):
+        return [
+            "⚡ Exploring quantized LLM deployment on edge hardware",
+            "🔬 Researching multimodal deepfake detection pipelines",
+            "🛡️  Building blockchain smart contract security tooling",
+            "🌐 Contributing to open-source AI/ML projects",
+        ]
+
+    def fun_fact(self):
+        return "I debug faster with lo-fi music playing 🎵"
+
+me = Anushka()
+print(me.current_focus())
+```
+
 
 ## <img src="https://api.iconify.design/pixelarticons/trophy.svg?color=%232EC866" width="28" align="center"> Honors, Awards & Certifications
 
@@ -103,71 +103,17 @@
   </ul>
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://api.iconify.design/pixelarticons/zap.svg?color=%232EC866" width="28" align="center"> GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkadas-coder&show_icons=true&theme=github_dark&hide_border=true&title_color=2EC866&icon_color=2EC866&text_color=ffffff&bg_color=0d1117" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anushkadas-coder&theme=github-dark-blue&hide_border=true&stroke=2EC866&ring=2EC866&fire=ff6e6e&currStreakLabel=2EC866" width="48%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkadas-coder&layout=compact&theme=github_dark&hide_border=true&title_color=2EC866&text_color=ffffff&bg_color=0d1117&langs_count=8" width="48%" alt="Top Languages"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://api.iconify.design/pixelarticons/trending-up.svg?color=%232EC866" width="28" align="center"> Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkadas-coder&bg_color=0d1117&color=2EC866&line=2EC866&point=ffffff&area=true&hide_border=true&custom_title=Anushka's+Contribution+Graph" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkadas-coder&bg_color=0d1117&color=2EC866&line=2EC866&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://api.iconify.design/pixelarticons/loader.svg?color=%232EC866" width="28" align="center"> Currently Building
-
-```python
-class Anushka:
-    def __init__(self):
-        self.name         = "Anushka Das"
-        self.role         = "ML/DL Engineer & AIML Researcher"
-        self.location     = "India 🇮🇳"
-        self.languages    = ["Python", "Java", "C++", "JavaScript", "SQL"]
-        self.interests    = ["Sovereign AI", "Deepfake Detection", "LLM Fine-tuning", "Edge Inference"]
-        self.communities  = ["Google WTM", "IEEE RA-TC-MLA", "NVIDIA Dev Community"]
-
-    def current_focus(self):
-        return [
-            "⚡ Exploring quantized LLM deployment on edge hardware",
-            "🔬 Researching multimodal deepfake detection pipelines",
-            "🛡️  Building blockchain smart contract security tooling",
-            "🌐 Contributing to open-source AI/ML projects",
-        ]
-
-    def fun_fact(self):
-        return "I debug faster with lo-fi music playing 🎵"
-
-me = Anushka()
-print(me.current_focus())
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://api.iconify.design/pixelarticons/git.svg?color=%232EC866" width="28" align="center"> Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anushkadas-coder/anushkadas-coder/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anushkadas-coder/anushkadas-coder/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/anushkadas-coder/anushkadas-coder/output/github-snake.svg" />
-  </picture>
+  <img src="https://media1.tenor.com/m/o3nueNFM298AAAAC/tomoko-kuroki-watamote.gif" width="400px" alt="Coder" />
 </p>
-
-> **Note:** To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your repo at `.github/workflows/snake.yml` — it auto-generates the SVG on a schedule.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://api.iconify.design/pixelarticons/heart.svg?color=%232EC866" width="28" align="center"> Random Dev Quote
 
