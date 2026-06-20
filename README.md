@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/CXtASZlc-20AAAAC/watamote-tomoko-kuroki.gif" width="400px" alt="Coding character" />
+  <img src="https://media.tenor.com/Ob9ma9VMNssAAAAC/tomoko-kuroki.gif" width="400px" alt="Coding character" />
 </p>
 <h1 align="center">
   <a href="https://github.com/anushkadas-coder">
