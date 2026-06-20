@@ -63,6 +63,34 @@
 | *July 2025 - Sept 2025* | *Open-Source Contributor* | GSSoc '25 | Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub. |
 | *Aug 2025 (1 month)* | *Web Development Intern* | CodSoft | Developed and enhanced 6+ responsive web pages using HTML, CSS, and JavaScript, significantly improving UI accessibility. |
 
+
+## <img src="https://api.iconify.design/pixelarticons/loader.svg?color=%232EC866" width="28" align="center"> Currently Building
+
+```python
+class Anushka:
+    def __init__(self):
+        self.name         = "Anushka Das"
+        self.role         = "ML/DL Engineer & AIML Researcher"
+        self.location     = "India 🇮🇳"
+        self.languages    = ["Python", "Java", "C++", "JavaScript", "SQL"]
+        self.interests    = ["Sovereign AI", "Deepfake Detection", "LLM Fine-tuning", "Edge Inference"]
+        self.communities  = ["Google WTM", "IEEE RA-TC-MLA", "NVIDIA Dev Community"]
+
+    def current_focus(self):
+        return [
+            "⚡ Exploring quantized LLM deployment on edge hardware",
+            "🔬 Researching multimodal deepfake detection pipelines",
+            "🛡️  Building blockchain smart contract security tooling",
+            "🌐 Contributing to open-source AI/ML projects",
+        ]
+
+    def fun_fact(self):
+        return "I debug faster with lo-fi music playing 🎵"
+
+me = Anushka()
+print(me.current_focus())
+```
+
 <p align="center">
   <img src="https://media.tenor.com/YmJBgBqkzZcAAAAd/chicken-sound.gif" width="400px" alt="Coder" />
 </p>
