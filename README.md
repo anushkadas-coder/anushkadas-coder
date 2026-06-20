@@ -52,7 +52,7 @@
 ```python
 class Anushka:
     def __init__(self):
-        self.name         = "Anushka Das"
+        self.name         = "Anushka"
         self.role         = "ML/DL Engineer & AIML Researcher"
         self.location     = "India 🇮🇳"
         self.languages    = ["Python", "Java", "C++", "JavaScript", "SQL"]
