@@ -132,6 +132,10 @@ print(me.current_focus())
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/o3nueNFM298AAAAC/tomoko-kuroki-watamote.gif" width="400px" alt="Coder" />
+</p>
+
 ## <img src="https://api.iconify.design/pixelarticons/heart.svg?color=%232EC866" width="28" align="center"> Random Dev Quote
 
 <p align="center">
