@@ -54,17 +54,17 @@ class Anushka:
     def __init__(self):
         self.name         = "Anushka"
         self.role         = "ML/DL Engineer & AIML Researcher"
-        self.location     = "India 🇮🇳"
+        self.location     = "India"
         self.languages    = ["Python", "Java", "C++", "JavaScript", "SQL"]
         self.interests    = ["Sovereign AI", "Deepfake Detection", "LLM Fine-tuning", "Edge Inference"]
         self.communities  = ["Google WTM", "IEEE RA-TC-MLA", "NVIDIA Dev Community"]
 
     def current_focus(self):
         return [
-            "⚡ Exploring quantized LLM deployment on edge hardware",
-            "🔬 Researching multimodal deepfake detection pipelines",
-            "🛡️  Building blockchain smart contract security tooling",
-            "🌐 Contributing to open-source AI/ML projects",
+            "Exploring quantized LLM deployment on edge hardware",
+            "Researching multimodal deepfake detection pipelines",
+            "Building blockchain smart contract security tooling",
+            "Contributing to open-source AI/ML projects",
         ]
 
     def fun_fact(self):
