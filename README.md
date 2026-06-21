@@ -7,14 +7,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="mailto:anushkadas05das@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/anushka-das-467437316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/anushkadevs"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://g.dev/anushkadas-coder"><img src="https://img.shields.io/badge/Google%20Developers-4285F4?style=flat-square&logo=google-developers&logoColor=white" alt="Google Developers"/></a>
-  <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-</p>
-
 ### <img src="https://media.tenor.com/6ggfWGTPqpwAAAAm/tomoko.webp" width="90" align="center"> **[My Portfolio🍉](https://anushkadas-coder.github.io/)**
 
 <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="28" align="center" />I'm an  IT undergrad and an **ML/DL Engineer** with strong research interests in AIML., I build intelligent systems and full-stack AI applications to solve real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms. <br><br>An active member of <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" height="16" align="center" /> **Google's Women Techmakers** and <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg" height="16" align="center" /> **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation** and <img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" align="center" /> **NVIDIA Developer Community**
