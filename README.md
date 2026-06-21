@@ -10,16 +10,16 @@
 
 <img src="https://media.tenor.com/6ggfWGTPqpwAAAAm/tomoko.webp" width="95" align="left" />I'm an  IT undergrad and an **ML/DL Engineer** with strong research interests in AIML., I build intelligent systems and full-stack AI applications to solve real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms. <br><br>An active member of <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" height="16" align="center" /> **Google's Women Techmakers** and <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg" height="16" align="center" /> **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation** and <img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" align="center" /> **NVIDIA Developer Community**
 
-## <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="28" align="center"> **[My Portfolio🍉](https://anushkadas-coder.github.io/)**
+## <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center"> **[My Portfolio🍉](https://anushkadas-coder.github.io/)**
 
-## <img src="https://api.iconify.design/pixelarticons/article.svg?color=%232EC866" width="28" align="center"> Research & Publications
+## <img src="https://api.iconify.design/pixelarticons/article.svg?color=%232EC866" width="16" align="center"> Research & Publications
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Architectural Paradigms for Sovereign AI: Mitigating API Fragility through Quantized Low-Rank Adaptation and 1.58-bit Ternary Models (Officially lived on SSRN)** | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Architectural_Paradigms_for_Sovereign_AI__Mitigating_API_Fragility_through_Quantized_Low_Rank_Adaptation_and_1_58_bit_Ternary_Models.pdf)**
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs** | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
 
 
-## <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="28" align="center"> My Skills
+## <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="16" align="center"> My Skills
 
 | Category | Technologies |
 | :--- | :--- |
@@ -28,7 +28,7 @@
 | **<img src="https://api.iconify.design/pixelarticons/device-laptop.svg?color=%232EC866" width="20" align="center"> Tools & Platforms** | <img src="https://api.iconify.design/simple-icons/amazonaws.svg?color=%23FF9900" width="20" align="center"/> Amazon AWS &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/streamlit.svg?color=%23FF4B4B" width="20" align="center"/> Streamlit &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/git.svg?color=%23F05032" width="20" align="center"/> Git &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/jupyter.svg?color=%23F37626" width="20" align="center"/> Jupyter &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23F2C811" width="20" align="center"/> Power BI &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/docker.svg?color=%232496ED" width="20" align="center"/> Docker |
 
 
-## <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="28" align="center"> Experience
+## <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="16" align="center"> Experience
 
 | Period | Role | Company | Highlights |
 | :--- | :--- | :--- | :--- |
@@ -38,7 +38,7 @@
 | *Aug 2025 (1 month)* | *Web Development Intern* | CodSoft | Developed and enhanced 6+ responsive web pages using HTML, CSS, and JavaScript, significantly improving UI accessibility. |
 
 
-## <img src="https://api.iconify.design/pixelarticons/loader.svg?color=%232EC866" width="28" align="center"> Currently Building
+## <img src="https://api.iconify.design/pixelarticons/loader.svg?color=%232EC866" width="16" align="center"> Currently Building
 
 ```python
 class Anushka:
@@ -66,7 +66,7 @@ print(me.current_focus())
 ```
 
 
-## <img src="https://api.iconify.design/pixelarticons/trophy.svg?color=%232EC866" width="28" align="center"> Honors, Awards & Certifications
+## <img src="https://api.iconify.design/pixelarticons/trophy.svg?color=%232EC866" width="16" align="center"> Honors, Awards & Certifications
 
 <details>
   <summary><b><img src="https://api.iconify.design/pixelarticons/trophy.svg?color=%232EC866" width="16" align="center"> View Honors & Awards (Click to Expand)</b></summary>
@@ -95,7 +95,7 @@ print(me.current_focus())
 </details>
 
 
-## <img src="https://api.iconify.design/pixelarticons/trending-up.svg?color=%232EC866" width="28" align="center"> Contribution Graph
+## <img src="https://api.iconify.design/pixelarticons/trending-up.svg?color=%232EC866" width="16" align="center"> Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkadas-coder&bg_color=0d1117&color=2EC866&line=2EC866&point=ffffff&area=true&hide_border=true&custom_title=Anushka's+Contribution+Graph" width="100%" alt="Contribution Graph"/>
@@ -105,7 +105,7 @@ print(me.current_focus())
   <img src="https://media1.tenor.com/m/o3nueNFM298AAAAC/tomoko-kuroki-watamote.gif" width="400px" alt="Coder" />
 </p>
 
-## <img src="https://api.iconify.design/pixelarticons/heart.svg?color=%232EC866" width="28" align="center"> Random Dev Quote
+## <img src="https://api.iconify.design/pixelarticons/heart.svg?color=%232EC866" width="16" align="center"> Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote" />
