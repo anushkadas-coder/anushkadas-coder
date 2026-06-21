@@ -118,3 +118,7 @@ print(me.current_focus())
   <a href="https://g.dev/anushkadas-coder"><img src="https://img.shields.io/badge/Google%20Developers-4285F4?style=flat-square&logo=google-developers&logoColor=white" alt="Google Developers"/></a>
   <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EC866&height=100&section=footer&reversal=false&fontColor=ffffff" width="100%"/>
+</p>
