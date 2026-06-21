@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">
   <a href="https://github.com/anushkadas-coder">
-    <img src="https://readme-typing-svg.herokuapp.com?hfont=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi!+Anushka+here!+%F0%9F%91%BE;Aspiring+ML%2FDL+Engineer;AIML+Researcher+%26+Developer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?hfont=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi!+Anushka+here!+%F0%9F%91%BE;ML%2FDL+Engineer;AIML+Researcher+%26+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </h1>
 
