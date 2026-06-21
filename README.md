@@ -15,7 +15,7 @@
   <a href="https://www.hackerrank.com/profile/anushkadas05das"><img src="https://img.shields.io/badge/HackerRank-2EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
-### <img src="https://media.tenor.com/7Rojyx85vL8AAAAi/tomoko-tomoko-kuroki.gif" width="85" align="center"> **[My Portfolio🍉](https://anushkadas-coder.github.io/)**
+### <img src="https://media.tenor.com/6ggfWGTPqpwAAAAm/tomoko.webp" width="85" align="center"> **[My Portfolio🍉](https://anushkadas-coder.github.io/)**
 
 <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="28" align="center" />I'm an  IT undergrad and an **ML/DL Engineer** with strong research interests in AIML., I build intelligent systems and full-stack AI applications to solve real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms. <br><br>An active member of <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" height="16" align="center" /> **Google's Women Techmakers** and <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg" height="16" align="center" /> **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation** and <img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" align="center" /> **NVIDIA Developer Community**
 
