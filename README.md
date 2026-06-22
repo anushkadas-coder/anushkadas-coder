@@ -1,18 +1,15 @@
-<h2 align="center">Anushka Das, <code>anushkadas-coder</code></h2>
+<h2 align="center">Anushka</code></h2>
 
 <p align="center">
   <i>ML/DL Engineer • AIML Researcher • Problem Solver</i>
 </p>
 
 <p align="center">
-  / <a href="https://anushkadas-coder.github.io/">portfolio</a>
-  / <a href="https://twitter.com/anushkasys">x</a>
-  / <a href="mailto:anushkadas05das@gmail.com">email</a>
-  / <a href="https://linkedin.com/in/anushka-das-467437316">linkedin</a> /
+  • <a href="https://anushkadas-coder.github.io/">portfolio</a>
+  • <a href="https://twitter.com/anushkasys">x</a>
+  • <a href="mailto:anushkadas05das@gmail.com">email</a>
+  • <a href="https://linkedin.com/in/anushka-das-467437316">linkedin</a> •
 </p>
-
-
-
 
 <p align="center">
   <img src="https://media.tenor.com/Ob9ma9VMNssAAAAC/tomoko-kuroki.gif" width="400px" alt="Coding character" />
