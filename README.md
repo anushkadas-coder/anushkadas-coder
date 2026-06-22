@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  • <a href="https://anushkadas-coder.github.io/">portfolio</a>
-  • <a href="https://twitter.com/anushkasys">x</a>
-  • <a href="mailto:anushkadas05das@gmail.com">email</a>
-  • <a href="https://linkedin.com/in/anushka-das-467437316">linkedin</a> •
+  / <a href="https://anushkadas-coder.github.io/">portfolio</a>
+   / <a href="https://linkedin.com/in/anushka-das-467437316">linkedin</a>
+  / <a href="mailto:anushkadas05das@gmail.com">email</a>
+  / <a href="https://twitter.com/anushkasys">x</a> /
 </p>
 
 <p align="center">
