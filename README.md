@@ -14,12 +14,6 @@
 <p align="center">
   <img src="https://media.tenor.com/Ob9ma9VMNssAAAAC/tomoko-kuroki.gif" width="400px" alt="Coding character" />
 </p>
-<h1 align="center">
-  <a href="https://github.com/anushkadas-coder">
-    <img src="https://readme-typing-svg.herokuapp.com?hfont=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi!+Anushka+here!+%F0%9F%91%BE;ML%2FDL+Engineer;AIML+Researcher+%26+Developer;Problem+Solver" alt="Typing SVG" />
-  </a>
-</h1>
-
 
 <img src="https://media.tenor.com/6ggfWGTPqpwAAAAm/tomoko.webp" width="95" align="left" />I'm an  IT undergrad and an **ML/DL Engineer** with strong research interests in AIML., I build intelligent systems and full-stack AI applications to solve real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms. <br><br>An active member of <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" height="16" align="center" /> **Google's Women Techmakers** and <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg" height="16" align="center" /> **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation** and <img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" align="center" /> **NVIDIA Developer Community**
 
