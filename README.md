@@ -111,12 +111,3 @@ print(me.current_focus())
   <img src="https://media1.tenor.com/m/o3nueNFM298AAAAC/tomoko-kuroki-watamote.gif" width="400px" alt="Coder" />
 </p>
 
-### <img src="https://api.iconify.design/pixelarticons/heart.svg?color=%232EC866" width="25" align="center"> Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2EC866&height=100&section=footer&reversal=false&fontColor=ffffff" width="100%"/>
-</p>
