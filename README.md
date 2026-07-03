@@ -106,5 +106,5 @@ print(me.current_focus())
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/0LbvYXXSSyMAAAAd/rukia-bleach.gif" width="400px" alt="Coder" />
+  <img src="https://media.tenor.com/1381XxJ9CVsAAAAM/bankai-type-soul.gif" width="400px" alt="Coder" />
 </p>
