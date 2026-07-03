@@ -106,5 +106,5 @@ print(me.current_focus())
 </p>
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/133/13325.gif" width="400px" alt="Coder" />
+  <img src="https://media1.tenor.com/m/0LbvYXXSSyMAAAAd/rukia-bleach.gif" width="400px" alt="Coder" />
 </p>
