@@ -106,5 +106,5 @@ print(me.current_focus())
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/GkwHUSfdSqYAAAAM/rukia-kuchiki-bleach.gif" width="400px" alt="Coder" />
+  <img src="https://wifflegif.com/gifs/286291-bleach-hell-chapter-bleach-hell-verse-gif" width="400px" alt="Coder" />
 </p>
