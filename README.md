@@ -39,7 +39,6 @@
 | *Jan 2025 - Present* | *Member of Google's Women Techmakers* | *Google For Developers* | *Engage in global community supporting women in tech through events, learning resources, and networking.* |
 | *Jan 2026 (1 month)* | *Blockchain Risk Developer* | *Zetheta Algorithms Private Limited* | *Engineered a vulnerability scanner for Solidity contracts to detect critical flaws like Reentrancy and Access Control.* |
 | *July 2025 - Sept 2025* | *Open-Source Contributor* | *GSSoc '25* | *Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub.* |
-| *Aug 2025 (1 month)* | *Web Development Intern* | *CodSoft* | *Developed and enhanced 6+ responsive web pages using HTML, CSS, and JavaScript, significantly improving UI accessibility.* |
 
 
 ### <img src="https://api.iconify.design/pixelarticons/loader.svg?color=%232EC866" width="25" align="center"> *Currently Building*
@@ -103,8 +102,4 @@ print(me.current_focus())
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkadas-coder&bg_color=0d1117&color=2EC866&line=2EC866&point=ffffff&area=true&hide_border=true&custom_title=Anushka's+Contribution+Graph" width="100%" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/w21pU97W134AAAAC/ruriko-lean%27s-up-weakly-and-opens-her-eyes-before-starring-curious.gif" width="400px" alt="Coder" />
 </p>
