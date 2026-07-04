@@ -68,36 +68,6 @@ me = Anushka()
 print(me.current_focus())
 ```
 
-
-### <img src="https://api.iconify.design/pixelarticons/trophy.svg?color=%232EC866" width="25" align="center"> *Honors, Awards & Certifications*
-
-<details>
-  <summary><b><img src="https://api.iconify.design/pixelarticons/trophy.svg?color=%232EC866" width="16" align="center"> <i>View Honors & Awards (Click to Expand)</i></b></summary>
-  <br/>
-  <ul>
-    <li><b>HackerRank:</b> <i>Gold Level (5 Star) in Python, Silver Level (3 Star) in Java.</i></li>
-    <li><b>SIH '25 Semi-Finalist:</b> <i>Authenticity Validator for Academia: 'Digi-Pramaan', Top Finalist out of 250+ competing teams in the college internal round for the Smart India Hackathon (SIH) 2025.</i></li>
-    <li><b>Problem Solving:</b> <i>Solved 400+ problems on LeetCode and HackerRank, improving algorithmic thinking and coding efficiency.</i></li>
-    <li><b>Problem Solving:</b> <i>Unexpectedly shortlisted via Foundit and successfully cleared an interview for a Business Administration/Management role as a 6th-semester undergrad. Secured a 2-month training program with a stipend, leading to a full-time offer — respectfully declined to focus on 6th-semester studies.</i></li>
-    <li><b>Extracurricular:</b> <i>Active member of Samaritans social club since first year, contributing to community initiatives and collaborative events and occasionally participate in debate and quiz competitions, showcasing strong communication and critical thinking skills.</i></li>
-  </ul>
-</details>
-
-<details>
-  <summary><b><img src="https://api.iconify.design/pixelarticons/book-open.svg?color=%232EC866" width="16" align="center"> <i>View Certifications (Click to Expand)</i></b></summary>
-  <br/>
-  <ul>
-    <li><i>Data Analytics Job Simulation —</i> <b>Deloitte Australia</b></li>
-    <li><i>Software Engineering Job Simulation —</i> <b>JPMorgan Chase & Co.</b></li>
-    <li><i>Introduction to Agent Skills —</i> <b>Anthropic Academy</b></li>
-    <li><i>Train and Manage a Machine Learning Model with Azure Machine Learning —</i> <b>Microsoft</b></li>
-    <li><i>Understand Data Science for Machine Learning —</i> <b>Microsoft</b></li>
-    <li><i>Python for Data Science —</i> <b>IBM</b></li>
-    <li><i>GenAI Powered Data Analytics Job Simulation —</i> <b>Tata</b></li>
-  </ul>
-</details>
-
-
 ### <img src="https://api.iconify.design/pixelarticons/trending-up.svg?color=%232EC866" width="25" align="center"> *Contribution Graph*
 
 <p align="center">
