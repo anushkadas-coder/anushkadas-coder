@@ -1,7 +1,7 @@
 <h2 align="center">Anushka here! <img src="https://api.iconify.design/pixelarticons/heart.svg?color=%232EC866" width="25" align="center"></h2>
 
 <p align="center">
-  <i>ML/DL Engineer • AIML Researcher • Web Developer</i>
+  <i>ML Engineer • AIML Researcher • Web Developer</i>
 </p>
 
 <p align="center">
