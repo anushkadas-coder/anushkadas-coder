@@ -17,18 +17,12 @@
 
 <img src="https://media.tenor.com/zIXEDdiSnm8AAAAm/bleach.webp" width="95" align="left" />*I'm an IT undergrad and an* **ML/DL Engineer** *with strong research interests in AIML. I build intelligent systems and full-stack AI applications to solve real-world challenges. Alongside my passion for AIML, I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms. <br>I have won **3 hackathons**, collaborating with teams to develop innovative solutions under competitive deadlines. Along the way, I have built 25+ full-stack and AI-driven projects, gaining hands-on experience in developing scalable, user-centric applications. Driven by a passion for innovation and research, I have also published **2 research papers** in AIML, exploring emerging technologies and their real-world applications. I'm an active member of* <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" height="16" align="center" /> **Google's Women Techmakers** *and* <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg" height="16" align="center" /> **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation** *and* <img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" align="center" /> **NVIDIA Developer Community.**
 
-
-**<img src="https://api.iconify.design/pixelarticons/article.svg?color=%232EC866" width="25" align="center"> *Research & Publications***<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***Architectural Paradigms for Sovereign AI: Mitigating API Fragility through Quantized Low-Rank Adaptation and 1.58-bit Ternary Models*** *| Officially lived on SSRN* | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Architectural_Paradigms_for_Sovereign_AI__Mitigating_API_Fragility_through_Quantized_Low_Rank_Adaptation_and_1_58_bit_Ternary_Models.pdf)**<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs*** | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
-
 ### <img src="https://api.iconify.design/pixelarticons/article.svg?color=%232EC866" width="25" align="center"> *Research & Publications*
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***Architectural Paradigms for Sovereign AI: Mitigating API Fragility through Quantized Low-Rank Adaptation and 1.58-bit Ternary Models*** *| Officially lived on SSRN* | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Architectural_Paradigms_for_Sovereign_AI__Mitigating_API_Fragility_through_Quantized_Low_Rank_Adaptation_and_1_58_bit_Ternary_Models.pdf)**<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs*** | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
 
 
 ### <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="25" align="center"> *Technical Arsenal*
-
 | *Category* | *Technologies* |
 | :--- | :--- |
 | **Languages** | <img src="https://api.iconify.design/simple-icons/python.svg?color=%233776AB" width="20" align="center"/> Python &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/openjdk.svg?color=%23ED8B00" width="20" align="center"/> Java &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/cplusplus.svg?color=%2300599C" width="20" align="center"/> C++ &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/mysql.svg?color=%234479A1" width="20" align="center"/> SQL &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/javascript.svg?color=%23F7DF1E" width="20" align="center"/> JavaScript &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/html5.svg?color=%23E34F26" width="20" align="center"/> HTML5 &nbsp;&nbsp; <img src="https://api.iconify.design/simple-icons/css3.svg?color=%231572B6" width="20" align="center"/> CSS3 |
@@ -37,7 +31,6 @@
 
 
 ### <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="25" align="center"> *Experience*
-
 | *Period* | *Role* | *Company* | *Highlights* |
 | :--- | :--- | :--- | :--- |
 | *Jan 2025 - Present* | *Member of Google's Women Techmakers* | *Google For Developers* | *Engage in global community supporting women in tech through events, learning resources, and networking.* |
