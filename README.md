@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/Krp9Zx8I-LoAAAAM/rukia.gif" width="400px" alt="Coding character" />
+  <img src="https://media1.tenor.com/m/PPX29O7DewMAAAAd/bleach-rukia.gif" width="400px" alt="Coding character" />
 </p>
 
 <img src="https://media.tenor.com/zIXEDdiSnm8AAAAi/bleach.gif" width="90" align="left" />*I'm an IT undergrad and an* **ML Engineer** *with strong research interests in AIML. I build intelligent systems and full-stack AI applications to solve real-world challenges. I have hands-on experience in Web Development and enjoy problem-solving through Data Structures and Algorithms. <br>I am an <img src="https://api.iconify.design/simple-icons/amazon.svg?color=%23FF9900" height="16" align="center" /> **Amazon ML Summer School(Amazon MLSS) 2026** Mentee. I have won **3 hackathons**, collaborating with teams to develop innovative solutions, and built 25+ full-stack and AI-driven projects to deliver user-centric applications. Driven by a passion for innovation, I've published **2 research papers** in AIML. I'm an active member of* <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg" height="16" align="center" /> **Google's Women Techmakers** *and* <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg" height="16" align="center" /> **IEEE Robotics and Automation Technical Committee on Machine Learning for Automation** *and* <img src="https://cdn.simpleicons.org/nvidia/76B900" height="16" align="center" /> **NVIDIA Developer Community.**
