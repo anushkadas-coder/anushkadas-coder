@@ -33,7 +33,7 @@
 ### <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="25" align="center"> *Experience*
 | *Period* | *Role* | *Company* | *Highlights* |
 | :--- | :--- | :--- | :--- |
-| *JUL 2026 – AUG 2026* | *Data Analytics Intern* | *OASIS INFOBYTE (AICTE OIB-SIP)* | *Leveraged Python, Pandas, and Scikit-learn to engineer data pipelines, perform exploratory data analysis, and build predictive models for real-world business datasets.* |
+| *Jul 2026 – Aug 2026* | *Data Analytics Intern* | *OASIS INFOBYTE (AICTE OIB-SIP)* | *Leveraged Python, Pandas, and Scikit-learn to engineer data pipelines, perform exploratory data analysis, and build predictive models for real-world business datasets.* |
 | *Jan 2026 (1 month)* | *Blockchain Risk Developer* | *Zetheta Algorithms Private Limited* | *Engineered a vulnerability scanner for Solidity contracts to detect critical flaws like Reentrancy and Access Control.* |
 | *July 2025 - Sept 2025* | *Open-Source Contributor* | *GSSoc '25* | *Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub.* |
 
