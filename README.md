@@ -65,8 +65,3 @@ me = Anushka()
 print(me.current_focus())
 ```
 
-### <img src="https://api.iconify.design/pixelarticons/trending-up.svg?color=%232EC866" width="25" align="center"> *Contribution Graph*
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushkadas-coder&bg_color=0d1117&color=2EC866&line=2EC866&point=ffffff&area=true&hide_border=true&custom_title=Anushka's+Contribution+Graph" width="100%" alt="Contribution Graph"/>
-</p>
