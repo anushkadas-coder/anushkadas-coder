@@ -64,4 +64,6 @@ class Anushka:
 me = Anushka()
 print(me.current_focus())
 ```
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/7eszxPXzF0wAAAAd/bocchi-bocchi-the-rock.gif" width="450px" alt="Coding character" />
+</p>
