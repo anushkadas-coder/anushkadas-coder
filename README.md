@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/c4SNT9dcuLoAAAAC/bocchi-bocchi-the-rock.gif" width="400px" alt="Coding character" />
+  <img src="https://i.imgur.com/X4WbWGX.gif" width="400px" alt="Coding character" />
 </p>
 
 <img src="https://media.tenor.com/rTy7lj1ao98AAAAi/bocchi-bocchi-the-rock.gif" width="60" align="left" />*I'm an IT undergrad and an* **ML Engineer** *with research interests in AIML, building intelligent systems and full-stack AI applications that solve real-world challenges to deliver user-centric solutions. I have hands-on experience in Web Development and enjoy problem-solving through DSA. I am an **Amazon ML Summer School(Amazon MLSS) 2026** Scholar.Driven by a passion for innovation, I've published **2 research papers** in AIML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Technical Committee on ML for Automation** *and* **NVIDIA Developer Community.** *My interests naturally gravitate toward anything that adds to the growing body of Human Knowledge.* 
