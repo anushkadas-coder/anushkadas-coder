@@ -65,5 +65,5 @@ me = Anushka()
 print(me.current_focus())
 ```
 <p align="center">
-  <img src="https://media1.tenor.com/m/E-8VV78Sr9MAAAAC/nanami-nanami-momozono.gif" width="400px" alt="Coding character" />
+  <img src="https://img10.reactor.cc/pics/post/Kamisama-Hajimemashita-Momozono-Nanami-Anime-Anime-%D0%93%D0%B8%D1%84%D0%BA%D0%B8-2000343.gif" width="400px" alt="Coding character" />
 </p>
