@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/iw_Zoz9QOR8AAAAM/angry-shouting.gif" width="400px" alt="Coding character" />
+  <img src="https://i.pinimg.com/originals/f0/f2/8a/f0f28a3fe8929a9d3fd1770de33e2617.gif" width="400px" alt="Coding character" />
 </p>
 
 <img src="https://mystickermania.com/cdn/stickers/anime/kamisama-kiss-nanami-happy-512x512.png" width="60" align="left" />*I'm an IT undergrad and an* **ML Engineer** *with research interests in AIML, building intelligent systems and full-stack AI applications that solve real-world challenges to deliver user-centric solutions. I have hands-on experience in web dev. and enjoy problem-solving. I am an **Amazon ML Summer School(Amazon MLSS) 2026** Scholar. Driven by a passion for innovation, I've published **2 research papers** in AIML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Technical Committee on ML for Automation** *and* **NVIDIA Developer Community.**<br><br/>*When I'm not coding, you'll probably find me drawing, winning debates, or strumming guitars every once in a while. I'm a living proof that a human can function with black coffee as their primary blood type. My interests naturally gravitate toward anything that adds to the growing body of Human Knowledge.*
