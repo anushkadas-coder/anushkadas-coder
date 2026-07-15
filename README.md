@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/4YgpGQhVrp4AAAAM/nanami-kamisama-kiss.gif" width="400px" alt="Coding character" />
+  <img src="https://media1.tenor.com/m/rpv4_FqWtlsAAAAd/anime-anime-smile.gif" width="400px" alt="Coding character" />
 </p>
 
 <img src="https://mystickermania.com/cdn/stickers/anime/kamisama-kiss-nanami-happy-512x512.png" width="60" align="left" />*I'm an IT undergrad and* **ML Engineer** *with research interests in AI/ML, building intelligent systems and full-stack AI applications that solve real-world problems through user-centric solutions. With hands-on experience in web dev, I'm an **Amazon ML Summer School(Amazon MLSS) 2026** Scholar, have published **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML for Automation** *and* **NVIDIA Developer Community.**<br><br/>*When I'm not coding, you'll probably find me drawing, winning debates, reading manga, or strumming guitars every once in a while. I'm a living proof that a human can function with black coffee as their primary blood type. My interests naturally gravitate toward anything that adds to the growing body of Human Knowledge.*
@@ -65,5 +65,5 @@ me = Anushka()
 print(me.current_focus())
 ```
 <p align="center">
-  <img src="https://media1.tenor.com/m/rpv4_FqWtlsAAAAd/anime-anime-smile.gif" width="400px" alt="Coding character" />
+  <img src="https://media.tenor.com/4YgpGQhVrp4AAAAM/nanami-kamisama-kiss.gif" width="400px" alt="Coding character" />
 </p>
