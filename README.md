@@ -16,6 +16,13 @@
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***Architectural Paradigms for Sovereign AI: Mitigating API Fragility through Quantized Low-Rank Adaptation and 1.58-bit Ternary Models*** *| Officially lived on SSRN* | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Architectural_Paradigms_for_Sovereign_AI__Mitigating_API_Fragility_through_Quantized_Low_Rank_Adaptation_and_1_58_bit_Ternary_Models.pdf)**<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs*** | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
 
+### <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="25" align="center"> *Technical Arsenal*
+| *Category* | *Technologies* |
+| :--- | :--- |
+| **Languages** | [Python](#) &nbsp;&nbsp; [Java](#) &nbsp;&nbsp; [C++](#) &nbsp;&nbsp; [SQL](#) &nbsp;&nbsp; [JavaScript](#) &nbsp;&nbsp; [HTML5](#) &nbsp;&nbsp; [CSS3](#) |
+| **Libraries & Frameworks** | [Scikit-learn](#) &nbsp;&nbsp; [PyTorch](#) &nbsp;&nbsp; [Pandas](#) &nbsp;&nbsp; [NumPy](#) &nbsp;&nbsp; [XGBoost](#) &nbsp;&nbsp; [Flask](#) &nbsp;&nbsp; [FastAPI](#) &nbsp;&nbsp; [React](#) &nbsp;&nbsp; [OpenAI](#) |
+| **Tools & Platforms** | [Amazon AWS](#) &nbsp;&nbsp; [Streamlit](#) &nbsp;&nbsp; [Git](#) &nbsp;&nbsp; [Jupyter](#) &nbsp;&nbsp; [Power BI](#) &nbsp;&nbsp; [Docker](#) |
+
 
 ### <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="25" align="center"> *Technical Arsenal*
 | *Category* | *Technologies* |
