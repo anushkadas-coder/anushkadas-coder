@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://getwallpapers.com/wallpaper/full/8/8/f/828762-kamisama-kiss-wallpapers-1920x1080-for-computer.jpg" width="400px" alt="Coding character" />
+  <img src="https://i.pinimg.com/1200x/f6/8b/86/f68b869216d0448ac82580d58d306c18.jpg" width="400px" alt="Coding character" />
 </p>
 
 
