@@ -31,6 +31,24 @@
 
 
 ### <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="25" align="center"> *Experience*
+
+**Scholar** at [Amazon ML Summer School 2026](#) (Jul 2026 – Present)
+<br>Gaining hands-on knowledge in advanced ML, Deep Learning, Generative AI, and LLMs through sessions led by Amazon research scientists.
+
+**ML Intern** at [FlyRank AI Startup](#) (Jul 2026 – Present)
+<br>Implementing advanced feature engineering techniques, including TF-IDF and word representations, to extract highly predictive signals from raw dataset inputs.
+
+**Data Analytics Intern** at [OASIS INFOBYTE (AICTE OIB-SIP)](#) (Jul 2026 – 1 month)
+<br>Leveraged Python, Pandas, and Scikit-learn to engineer data pipelines, perform exploratory data analysis, and build predictive models for real-world business datasets.
+
+**Blockchain Risk Developer** at [Zetheta Algorithms Private Limited](#) (Jan 2026 – Feb 2026)
+<br>Engineered a vulnerability scanner for Solidity contracts to detect critical flaws like Reentrancy and Access Control.
+
+**Open-Source Contributor** at [GSSoc '25](#) (July 2025 – Sept 2025)
+<br>Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub.
+
+
+### <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="25" align="center"> *Experience*
 | *Period* | *Role* | *Company* | *Highlights* |
 | :--- | :--- | :--- | :--- |
 | *Jul 2026 – Present* | *Scholar at Amazon MLSS* | *Amazon ML Summer School 2026* | *Gaining hands-on knowledge in advanced ML, Deep Learning, Generative AI, and LLMs through sessions led by Amazon research scientists.* |
