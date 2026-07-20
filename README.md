@@ -4,12 +4,12 @@
   <i>ML Engineer • AIML Researcher • Web Developer</i>
 </h3>
 
-<h4 align="center">
+<h3 align="center">
   / &nbsp;&nbsp;&nbsp; <a href="https://anushkadas-coder.github.io/">portfolio</a> &nbsp;&nbsp;&nbsp; 
   / &nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/anushka-das-467437316">linkedin</a> &nbsp;&nbsp;&nbsp; 
   / &nbsp;&nbsp;&nbsp; <a href="mailto:anushkadas05das@gmail.com">email</a> &nbsp;&nbsp;&nbsp; 
   / &nbsp;&nbsp;&nbsp; <a href="https://twitter.com/anushkasys">x</a> &nbsp;&nbsp;&nbsp; /
-</h4>
+</h3>
 
 <p align="center">
   <img src="https://getwallpapers.com/wallpaper/full/8/8/f/828762-kamisama-kiss-wallpapers-1920x1080-for-computer.jpg" width="400px" alt="Coding character" />
