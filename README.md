@@ -35,32 +35,6 @@
 | *July 2025 - Sept 2025* | *Open-Source Contributor* | *GSSoc '25* | *Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub.* |
 
 
-### <img src="https://api.iconify.design/pixelarticons/loader.svg?color=%232EC866" width="25" align="center"> *Currently Building*
-
-```python
-class Anushka:
-    def __init__(self):
-        self.name         = "Anushka"
-        self.role         = "ML/DL Engineer & AIML Researcher"
-        self.location     = "India"
-        self.languages    = ["Python", "Java", "C++", "JavaScript", "SQL"]
-        self.interests    = ["Sovereign AI", "Deepfake Detection", "LLM Fine-tuning", "Edge Inference"]
-        self.communities  = ["Google WTM", "IEEE RA-TC-MLA", "NVIDIA Dev Community"]
-
-    def current_focus(self):
-        return [
-            "Exploring quantized LLM deployment on edge hardware",
-            "Researching multimodal deepfake detection pipelines",
-            "Building blockchain smart contract security tooling",
-            "Contributing to open-source AI/ML projects",
-        ]
-
-    def fun_fact(self):
-        return "I debug faster with lo-fi music playing 🎵"
-
-me = Anushka()
-print(me.current_focus())
-```
 <p align="center">
   <img src="https://i.pinimg.com/originals/f0/f2/8a/f0f28a3fe8929a9d3fd1770de33e2617.gif" width="400px" alt="Coding character" />
 </p>
