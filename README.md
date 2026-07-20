@@ -38,11 +38,4 @@
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Libraries & Frameworks:** *Scikit-learn • PyTorch • Pandas • NumPy • XGBoost • Flask • FastAPI • React • OpenAI*<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Tools & Platforms:** *Amazon AWS • Streamlit • Git • Jupyter • Power BI • Docker*<br>
 
-### <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="25" align="center"> *Technical Arsenal*
-| *Category* | *Technologies* |
-| :--- | :--- |
-| **Languages** | *Python* &nbsp;&nbsp; *Java* &nbsp;&nbsp; *C++* &nbsp;&nbsp; *SQL* &nbsp;&nbsp; *JavaScript* &nbsp;&nbsp; *HTML5* &nbsp;&nbsp; *CSS3* |
-| **Libraries & Frameworks** | *Scikit-learn* &nbsp;&nbsp; *PyTorch* &nbsp;&nbsp; *Pandas* &nbsp;&nbsp; *NumPy* &nbsp;&nbsp; *XGBoost* &nbsp;&nbsp; *Flask* &nbsp;&nbsp; *FastAPI* &nbsp;&nbsp; *React* &nbsp;&nbsp; *OpenAI* |
-| **Tools & Platforms** | *Amazon AWS* &nbsp;&nbsp; *Streamlit* &nbsp;&nbsp; *Git* &nbsp;&nbsp; *Jupyter* &nbsp;&nbsp; *Power BI* &nbsp;&nbsp; *Docker* |
-
 *When I'm not coding, you'll probably find me drawing, winning debates, reading manga, or strumming guitars every once in a while. I'm a living proof that a human can function with black coffee as their primary blood type. My interests naturally gravitate toward anything that adds to the growing body of Human Knowledge.*<br><br/>
