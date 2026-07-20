@@ -33,8 +33,7 @@
 ### <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="25" align="center"> *Experience*
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Scholar** *at [Amazon ML Summer School 2026](#) (Jul 2026 – Present)*
-<br>*Gaining hands-on knowledge in advanced ML, Deep Learning, Generative AI, and LLMs through sessions led by Amazon research scientists.*
-
+<br>*Gaining hands-on knowledge in advanced ML, Deep Learning, Generative AI, and LLMs through sessions led by Amazon research scientists.*<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **ML Intern** *at [FlyRank AI Startup](#) (Jul 2026 – Present)*
 <br>*Implementing advanced feature engineering techniques, including TF-IDF and word representations, to extract highly predictive signals from raw dataset inputs.*
 
