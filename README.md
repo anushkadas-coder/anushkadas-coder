@@ -1,5 +1,9 @@
 <h2 align="center">anushka.sys <img src="https://api.iconify.design/pixelarticons/heart.svg?color=%232EC866" width="25" align="center"></h2>
 
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/f6/8b/86/f68b869216d0448ac82580d58d306c18.jpg" width="400px" alt="Coding character" />
+</p>
+
 <h3 align="center">
   <i>ML Engineer • AIML Researcher • Web Developer</i>
 </h3>
@@ -10,11 +14,6 @@
   / &nbsp; <a href="mailto:anushkadas05das@gmail.com">email</a> &nbsp;
   / &nbsp; <a href="https://twitter.com/anushkasys">x</a> &nbsp; /
 </h3>
-
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/f6/8b/86/f68b869216d0448ac82580d58d306c18.jpg" width="400px" alt="Coding character" />
-</p>
-
 
 *I'm an IT undergrad and* **ML Engineer** *with research interests in AI/ML, building intelligent systems and full-stack AI applications that solve real-world problems through user-centric solutions. With hands-on experience in web dev, I'm an **Amazon ML Summer School(Amazon MLSS) 2026** Scholar, have published **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**
 
