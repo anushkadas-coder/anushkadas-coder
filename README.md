@@ -34,12 +34,9 @@
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs*** | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
 
 ### <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="25" align="center"> *Technical Arsenal*
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Languages** 
-<br>*Python • Java • C++ • SQL • JavaScript • HTML5 • CSS3*<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Libraries & Frameworks** 
-<br>*Scikit-learn • PyTorch • Pandas • NumPy • XGBoost • Flask • FastAPI • React • OpenAI*<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Tools & Platforms** 
-<br>*Amazon AWS • Streamlit • Git • Jupyter • Power BI • Docker*<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Languages:** *Python • Java • C++ • SQL • JavaScript • HTML5 • CSS3*<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Libraries & Frameworks:** *Scikit-learn • PyTorch • Pandas • NumPy • XGBoost • Flask • FastAPI • React • OpenAI*<br>
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Tools & Platforms:** *Amazon AWS • Streamlit • Git • Jupyter • Power BI • Docker*<br>
 
 ### <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="25" align="center"> *Technical Arsenal*
 | *Category* | *Technologies* |
