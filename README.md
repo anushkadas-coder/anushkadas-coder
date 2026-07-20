@@ -1,8 +1,8 @@
 <h2 align="center">anushka.sys <img src="https://api.iconify.design/pixelarticons/heart.svg?color=%232EC866" width="25" align="center"></h2>
 
-<h4 align="center">
+<h3 align="center">
   <i>ML Engineer • AIML Researcher • Web Developer</i>
-</h4>
+</h3>
 
 <h3 align="center">
   / &nbsp;&nbsp; <a href="https://anushkadas-coder.github.io/">portfolio</a> &nbsp;&nbsp; 
