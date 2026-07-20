@@ -10,13 +10,6 @@
   / &nbsp; <a href="https://twitter.com/anushkasys" style="text-decoration: none; border-bottom: 2px solid #007bff; padding-bottom: 2px;">x</a> &nbsp; /
 </h3>
 
-<h3 align="center">
-  / &nbsp; <a href="https://anushkadas-coder.github.io/">portfolio</a> &nbsp;
-  / &nbsp; <a href="https://linkedin.com/in/anushka-das-467437316">linkedin</a> &nbsp;
-  / &nbsp; <a href="mailto:anushkadas05das@gmail.com">email</a> &nbsp;
-  / &nbsp; <a href="https://twitter.com/anushkasys">x</a> &nbsp; /
-</h3>
-
 <p align="center">
   <img src="https://i.pinimg.com/1200x/f6/8b/86/f68b869216d0448ac82580d58d306c18.jpg" width="400px" alt="Coding character" />
 </p>
