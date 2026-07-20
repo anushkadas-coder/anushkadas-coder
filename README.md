@@ -1,3 +1,5 @@
+<h2 align="center">anushka.sys <img src="https://api.iconify.design/pixelarticons/heart.svg?color=%232EC866" width="25" align="center"></h2>
+
 <h3 align="center">
   <i>ML Engineer • AIML Researcher • Web Developer</i>
 </h3>
