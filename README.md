@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f0/f2/8a/f0f28a3fe8929a9d3fd1770de33e2617.gif" width="400px" alt="Coding character" />
+  <img src="https://getwallpapers.com/wallpaper/full/8/8/f/828762-kamisama-kiss-wallpapers-1920x1080-for-computer.jpg" width="400px" alt="Coding character" />
 </p>
 
 
@@ -40,3 +40,6 @@
 | *July 2025 - Sept 2025* | *Open-Source Contributor* | *GSSoc '25* | *Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub.* |
 
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f0/f2/8a/f0f28a3fe8929a9d3fd1770de33e2617.gif" width="400px" alt="Coding character" />
+</p>
