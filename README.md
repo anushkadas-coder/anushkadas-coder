@@ -4,6 +4,13 @@
 </h3>
 
 <h3 align="center">
+  / &nbsp; <a href="https://anushkadas-coder.github.io/"><u>portfolio</u></a> &nbsp;
+  / &nbsp; <a href="https://linkedin.com/in/anushka-das-467437316"><u>linkedin</u></a> &nbsp;
+  / &nbsp; <a href="mailto:anushkadas05das@gmail.com"><u>email</u></a> &nbsp;
+  / &nbsp; <a href="https://twitter.com/anushkasys"><u>x</u></a> &nbsp; /
+</h3>
+
+<h3 align="center">
   / &nbsp; <a href="https://anushkadas-coder.github.io/">portfolio</a> &nbsp;
   / &nbsp; <a href="https://linkedin.com/in/anushka-das-467437316">linkedin</a> &nbsp;
   / &nbsp; <a href="mailto:anushkadas05das@gmail.com">email</a> &nbsp;
