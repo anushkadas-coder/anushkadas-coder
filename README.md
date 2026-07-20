@@ -4,13 +4,6 @@
 </h3>
 
 <h3 align="center">
-  <code><a href="https://anushkadas-coder.github.io/">portfolio</a></code> &nbsp;|&nbsp; 
-  <code><a href="https://linkedin.com/in/anushka-das-467437316">linkedin</a></code> &nbsp;|&nbsp; 
-  <code><a href="mailto:anushkadas05das@gmail.com">email</a></code> &nbsp;|&nbsp; 
-  <code><a href="https://twitter.com/anushkasys">x</a></code>
-</h3>
-
-<h3 align="center">
   / &nbsp; <a href="https://anushkadas-coder.github.io/">portfolio</a> &nbsp;
   / &nbsp; <a href="https://linkedin.com/in/anushka-das-467437316">linkedin</a> &nbsp;
   / &nbsp; <a href="mailto:anushkadas05das@gmail.com">email</a> &nbsp;
