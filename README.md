@@ -1,14 +1,13 @@
-<h2 align="center">anushka.sys <img src="https://api.iconify.design/pixelarticons/heart.svg?color=%232EC866" width="25" align="center"></h2>
-<p align="center">
+<h3 align="center">
   <i>ML Engineer • AIML Researcher • Web Developer</i>
-</p>
+</h3>
 
-<p align="center">
+<h4 align="center">
   / &nbsp;&nbsp;&nbsp; <a href="https://anushkadas-coder.github.io/">portfolio</a> &nbsp;&nbsp;&nbsp; 
   / &nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/anushka-das-467437316">linkedin</a> &nbsp;&nbsp;&nbsp; 
   / &nbsp;&nbsp;&nbsp; <a href="mailto:anushkadas05das@gmail.com">email</a> &nbsp;&nbsp;&nbsp; 
   / &nbsp;&nbsp;&nbsp; <a href="https://twitter.com/anushkasys">x</a> &nbsp;&nbsp;&nbsp; /
-</p>
+</h4>
 
 <p align="center">
   <img src="https://getwallpapers.com/wallpaper/full/8/8/f/828762-kamisama-kiss-wallpapers-1920x1080-for-computer.jpg" width="400px" alt="Coding character" />
