@@ -22,14 +22,6 @@
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs*** | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
 
 
-### <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="25" align="center"> *Technical Arsenal*
-| *Category* | *Technologies* |
-| :--- | :--- |
-| **Languages** | *Python* &nbsp;&nbsp; *Java* &nbsp;&nbsp; *C++* &nbsp;&nbsp; *SQL* &nbsp;&nbsp; *JavaScript* &nbsp;&nbsp; *HTML5* &nbsp;&nbsp; *CSS3* |
-| **Libraries & Frameworks** | *Scikit-learn* &nbsp;&nbsp; *PyTorch* &nbsp;&nbsp; *Pandas* &nbsp;&nbsp; *NumPy* &nbsp;&nbsp; *XGBoost* &nbsp;&nbsp; *Flask* &nbsp;&nbsp; *FastAPI* &nbsp;&nbsp; *React* &nbsp;&nbsp; *OpenAI* |
-| **Tools & Platforms** | *Amazon AWS* &nbsp;&nbsp; *Streamlit* &nbsp;&nbsp; *Git* &nbsp;&nbsp; *Jupyter* &nbsp;&nbsp; *Power BI* &nbsp;&nbsp; *Docker* |
-
-
 ### <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="25" align="center"> *Experience*
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Scholar** *at [Amazon ML Summer School 2026](#) (Jul 2026 – Present)*
@@ -43,4 +35,9 @@
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Open-Source Contributor** *at [GSSoc '25](#) (July 2025 – Sept 2025)*
 <br>*Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub.*
 
-
+### <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="25" align="center"> *Technical Arsenal*
+| *Category* | *Technologies* |
+| :--- | :--- |
+| **Languages** | *Python* &nbsp;&nbsp; *Java* &nbsp;&nbsp; *C++* &nbsp;&nbsp; *SQL* &nbsp;&nbsp; *JavaScript* &nbsp;&nbsp; *HTML5* &nbsp;&nbsp; *CSS3* |
+| **Libraries & Frameworks** | *Scikit-learn* &nbsp;&nbsp; *PyTorch* &nbsp;&nbsp; *Pandas* &nbsp;&nbsp; *NumPy* &nbsp;&nbsp; *XGBoost* &nbsp;&nbsp; *Flask* &nbsp;&nbsp; *FastAPI* &nbsp;&nbsp; *React* &nbsp;&nbsp; *OpenAI* |
+| **Tools & Platforms** | *Amazon AWS* &nbsp;&nbsp; *Streamlit* &nbsp;&nbsp; *Git* &nbsp;&nbsp; *Jupyter* &nbsp;&nbsp; *Power BI* &nbsp;&nbsp; *Docker* |
