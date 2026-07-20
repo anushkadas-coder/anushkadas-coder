@@ -3,12 +3,6 @@
   <i>ML Engineer • AIML Researcher • Web Developer</i>
 </h3>
 
-<div align="center">
-  <a href="https://anushkadas-coder.github.io/"><img src="https://img.shields.io/badge/Portfolio-007bff?style=for-the-badge&logo=Web&logoColor=white"></a>
-  <a href="https://linkedin.com/in/anushka-das-467437316"><img src="https://img.shields.io/badge/LinkedIn-007bff?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:anushkadas05das@gmail.com"><img src="https://img.shields.io/badge/Email-007bff?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/anushkasys"><img src="https://img.shields.io/badge/X-007bff?style=for-the-badge&logo=x&logoColor=white"></a>
-</div>
 <h3 align="center">
   / &nbsp; <a href="https://anushkadas-coder.github.io/">portfolio</a> &nbsp;
   / &nbsp; <a href="https://linkedin.com/in/anushka-das-467437316">linkedin</a> &nbsp;
