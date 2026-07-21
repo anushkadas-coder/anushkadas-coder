@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/f6/8b/86/f68b869216d0448ac82580d58d306c18.jpg" width="400px" alt="Coding character" />
+  <img src="https://i.pinimg.com/originals/c9/9f/47/c99f472d4b65ac10c13c51d6ed8b91ac.gif" width="400px" alt="Coding character" />
 </p>
 
 *I'm an IT undergrad and* **ML Engineer** *with research interests in AI/ML, building intelligent systems and full-stack AI applications that solve real-world problems through user-centric solutions. With hands-on experience in web dev, I'm an **Amazon ML Summer School(Amazon MLSS) 2026** Scholar, have won **3 hackathons** through team collaboration, and have published **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**<br>
