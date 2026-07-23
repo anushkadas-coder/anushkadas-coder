@@ -44,5 +44,5 @@
 *When I'm not coding, you'll probably find me drawing, winning debates, reading manga, or strumming guitars every once in a while. I'm a living proof that a human can function with black coffee as their primary blood type. My interests naturally gravitate toward anything that adds to the growing body of Human Knowledge.*<br><br/>
 
 <p align="center">
-  <img src="https://media.tenor.com/vlZHhXGq86MAAAAM/kon-k-on.gif" width="400px" alt="Coding character" />
+  <img src="https://media1.tenor.com/m/Wk4sSAx42bMAAAAd/mio-akiyama-close-up-no-thank-you-mio-akiyama-no-thankyou.gif" width="400px" alt="Coding character" />
 </p>
