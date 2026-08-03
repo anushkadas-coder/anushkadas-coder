@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/NmCVh-t7ZIoAAAAM/kimi-ni-todoke-kimi.gif" width="400px" alt="Coding character" />
+  <img src="https://media1.tenor.com/m/sj7aWQwCFDIAAAAC/sawako-kimi-ni-todoke.gif" width="400px" alt="Coding character" />
 </p>
 
 *I'm a **Software** and* **ML Engineer** *with research interests in AI/ML, building intelligent systems and full-stack AI applications that solve real-world problems through user-centric solutions. With hands-on experience in web dev, I'm an **Amazon ML Summer School(Amazon MLSS) 2026** Scholar, have won **3 hackathons** through team collaboration, and have published **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**<br>
