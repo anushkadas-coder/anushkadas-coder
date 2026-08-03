@@ -37,7 +37,7 @@
 ### <img src="https://api.iconify.design/pixelarticons/sliders.svg?color=%232EC866" width="25" align="center"> *Technical Arsenal*
 | *Category* | *Technologies* |
 | :--- | :--- |
-| **Languages** | *Python* &nbsp;&nbsp; *Java* &nbsp;&nbsp; *C++* &nbsp;&nbsp; *C#* &nbsp;&nbsp; *SQL* &nbsp;&nbsp; *JavaScript* &nbsp;&nbsp; *HTML5* &nbsp;&nbsp; *CSS3* |
+| **Languages** | *Python* &nbsp;&nbsp; *C++* &nbsp;&nbsp; *Java* &nbsp;&nbsp; *C#* &nbsp;&nbsp; *SQL* &nbsp;&nbsp; *JavaScript* &nbsp;&nbsp; *HTML5* &nbsp;&nbsp; *CSS3* |
 | **Libraries & Frameworks** | *Scikit-learn* &nbsp;&nbsp; *PyTorch* &nbsp;&nbsp; *Pandas* &nbsp;&nbsp; *NumPy* &nbsp;&nbsp; *XGBoost* &nbsp;&nbsp; *Flask* &nbsp;&nbsp; *FastAPI* &nbsp;&nbsp; *React* &nbsp;&nbsp; *OpenAI* |
 | **Tools & Platforms** | *Amazon AWS* &nbsp;&nbsp; *Streamlit* &nbsp;&nbsp; *Git* &nbsp;&nbsp; *Jupyter* &nbsp;&nbsp; *Power BI* &nbsp;&nbsp; *Docker* |
 
