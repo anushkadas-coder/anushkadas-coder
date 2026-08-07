@@ -14,7 +14,7 @@
   <img src="https://media1.tenor.com/m/sj7aWQwCFDIAAAAC/sawako-kimi-ni-todoke.gif" width="400px" alt="Coding character" />
 </p>
 
-<img src="https://stickerly.pstatic.net/sticker_pack/Iih1VVdSr75pU97woU3Wkw/5VSNUU/20/-1134118791.png" width="60" align="left" />*I'm a **Software** and* **ML Engineer** *with research interests in AI/ML, building intelligent systems and full-stack AI applications that solve real-world problems through user-centric solutions. With hands-on experience in web dev, I'm an **Amazon ML Summer School(Amazon MLSS) 2026** Scholar, have won **3 hackathons** through team collaboration, and have published **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**<br>
+*I'm a **Software** and* **ML Engineer** *with research interests in AI/ML, building intelligent systems and full-stack AI applications that solve real-world problems through user-centric solutions. With hands-on experience in web dev, I'm an **Amazon ML Summer School(Amazon MLSS) 2026** Scholar, have won **3 hackathons** through team collaboration, and have published **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**<br>
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> *Visit my* <a href="https://anushkadas-coder.github.io/">portfolio</a> here! :)
 
@@ -41,5 +41,5 @@
 | **Libraries & Frameworks** | *Scikit-learn* &nbsp;&nbsp; *PyTorch* &nbsp;&nbsp; *Pandas* &nbsp;&nbsp; *NumPy* &nbsp;&nbsp; *XGBoost* &nbsp;&nbsp; *Flask* &nbsp;&nbsp; *FastAPI* &nbsp;&nbsp; *React* &nbsp;&nbsp; *OpenAI* |
 | **Tools & Platforms** | *Amazon AWS* &nbsp;&nbsp; *Streamlit* &nbsp;&nbsp; *Git* &nbsp;&nbsp; *Jupyter* &nbsp;&nbsp; *Power BI* &nbsp;&nbsp; *Docker* |
 
-*When I'm not coding, you'll probably find me drawing, winning debates, reading manga, or strumming guitars every once in a while. I'm a living proof that a human can function with black coffee as their primary blood type. My interests naturally gravitate toward anything that adds to the growing body of Human Knowledge.*<br><br/>
+<img src="https://stickerly.pstatic.net/sticker_pack/Iih1VVdSr75pU97woU3Wkw/5VSNUU/20/-1134118791.png" width="60" align="left" />*When I'm not coding, you'll probably find me drawing, winning debates, reading manga, or strumming guitars every once in a while. I'm a living proof that a human can function with black coffee as their primary blood type. My interests naturally gravitate toward anything that adds to the growing body of Human Knowledge.*<br><br/>
 
