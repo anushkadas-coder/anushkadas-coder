@@ -41,5 +41,5 @@
 | **Libraries & Frameworks** | *Scikit-learn* &nbsp;&nbsp; *PyTorch* &nbsp;&nbsp; *Pandas* &nbsp;&nbsp; *NumPy* &nbsp;&nbsp; *XGBoost* &nbsp;&nbsp; *Flask* &nbsp;&nbsp; *FastAPI* &nbsp;&nbsp; *React* &nbsp;&nbsp; *OpenAI* |
 | **Tools & Platforms** | *Amazon AWS* &nbsp;&nbsp; *Streamlit* &nbsp;&nbsp; *Git* &nbsp;&nbsp; *Jupyter* &nbsp;&nbsp; *Power BI* &nbsp;&nbsp; *Docker* |
 
-<img src="https://stickerly.pstatic.net/sticker_pack/Iih1VVdSr75pU97woU3Wkw/5VSNUU/20/-1134118791.png" width="60" align="left" />*When I'm not coding, you'll probably find me drawing, winning debates, reading manga, or strumming guitars every once in a while. I'm a living proof that a human can function with black coffee as their primary blood type. My interests naturally gravitate toward anything that adds to the growing body of Human Knowledge.*<br><br/>
+*When I'm not coding, you'll probably find me drawing, winning debates, reading manga, or strumming guitars every once in a while. I'm a living proof that a human can function with black coffee as their primary blood type. My interests naturally gravitate toward anything that adds to the growing body of Human Knowledge.*<br><br/>
 
