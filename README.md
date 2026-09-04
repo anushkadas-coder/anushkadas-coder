@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/d0/d0420c1600ac539aa11f64ac4d54f78e.gif" width="400px" alt="Coding character" />
+  <img src="https://64.media.tumblr.com/4a307a357c2fe57263a620f830933d56/c19409ef84c9a6bf-38/s1280x1920/f6f46244c0e4e727486134a588fd1f2aae178328.gif" width="400px" alt="Coding character" />
 </p>
 
 <img src="https://media.tenor.com/sQU4Lqpw_04AAAAi/konata-izumi-konata-lucky-star.gif" width="60" align="left" />*I'm a **Software** and* **ML Engineer** *with research interests in AI/ML, building intelligent systems and full-stack AI applications that solve real-world problems through user-centric solutions. With hands-on experience in web dev, I'm an **Amazon ML Summer School(Amazon MLSS) 2026** Scholar, have won **3 hackathons** through team collaboration, and have published **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**<br>
