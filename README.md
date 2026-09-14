@@ -41,4 +41,4 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/a41e874TDnMAAAAd/yuki-itose-yubisaki-to-renren.gif" width="400px" alt="Coding character" />
 </p>
-<h2 align="center">sayonara!🌸</h2>
+<h4 align="center">sayonara!🌸</h4>
