@@ -19,9 +19,11 @@
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> *Visit my* <a href="https://anushkadas-coder.github.io/">portfolio</a> here! :)
 
 ### <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="25" align="center"> *Experience*
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Founding Engineer** *at [Stealth Startup](#) (Aug 2026 – Present)*
+<br>*contributing to performance optimizations, scalable component systems and accessibility improvements to enhance user experiences.*<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Scholar** *at [Amazon ML Summer School 2026](#)*
 <br>*Gaining hands-on knowledge in advanced ML, Deep Learning, Generative AI, and LLMs through sessions led by Amazon research scientists.*<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **ML Intern** *at [FlyRank AI Startup](#) (Jul 2026 – Present)*
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **ML Intern** *at [FlyRank AI Startup](#) (Jul 2026 – Sept 2026)*
 <br>*Implementing advanced feature engineering techniques, including TF-IDF and word representations, to extract highly predictive signals from raw dataset inputs.*<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Data Analytics Intern** *at [OASIS INFOBYTE (AICTE OIB-SIP)](#) (Jul 2026 – 1 month)*
 <br>*Leveraged Python, Pandas, and Scikit-learn to engineer data pipelines, perform exploratory data analysis, and build predictive models for real-world business datasets.*<br>
