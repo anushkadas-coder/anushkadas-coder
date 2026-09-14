@@ -19,7 +19,7 @@
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> *Visit my* <a href="https://anushkadas-coder.github.io/">portfolio</a> here! :)
 
 ### <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="25" align="center"> *Experience*
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Founding Engineer** *at [Stealth Startup](#) (Aug 2026 – Present)*
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Founding Engineer** *at [SF-based Startup](#) (Aug 2026 – Present)*
 <br>*contributing to performance optimizations, scalable component systems and accessibility improvements to enhance user experiences.*<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Scholar** *at [Amazon ML Summer School 2026](#)*
 <br>*Gaining hands-on knowledge in advanced ML, Deep Learning, Generative AI, and LLMs through sessions led by Amazon research scientists.*<br>
