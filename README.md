@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/yceJckhoR6YAAAAd/a-sign-of-affection-yuki-itose.gif" width="400px" alt="Coding character" />
+  <img src="https://media1.tenor.com/m/GdWxXWx9SdkAAAAd/yes-saku-fukuzawa.gif" width="400px" alt="Coding character" />
 </p>
 
 <img src="https://media.tenor.com/kMvhfWhSDwoAAAAi/flowers.gif" width="60" align="left" />*I'm a **Software** and* **ML Engineer** *with research interests in AI/ML, building intelligent systems and full-stack AI applications that solve real-world problems through user-centric solutions. With hands-on experience in web dev, I'm an **Amazon ML Summer School (MLSS) 2026** Scholar, have won **3 hackathons** through team collaboration, and have published **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**<br>
@@ -39,7 +39,7 @@
 *When I'm not coding, you'll probably find me drawing, winning debates, reading manga, or strumming guitars every once in a while. I'm a living proof that a human can function with black coffee as their primary blood type. My interests naturally gravitate toward anything that adds to the growing body of Human Knowledge.*<br><br/>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/a41e874TDnMAAAAd/yuki-itose-yubisaki-to-renren.gif" width="400px" alt="Coding character" />
+  <img src="https://media1.tenor.com/m/OckoWxvfbagAAAAC/the-masterful-cat-is-depressed-again-today-dekiru-neko-wa-kyou-mo-yuuutsu.gif" width="400px" alt="Coding character" />
 </p>
 <h4 align="center">
   <i>sayonara!🌸</i>
