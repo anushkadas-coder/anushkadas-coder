@@ -7,7 +7,7 @@
   / &nbsp; <a href="https://anushkadas-coder.github.io/">portfolio</a> &nbsp;
   / &nbsp; <a href="https://linkedin.com/in/anushka-das-467437316">linkedin</a> &nbsp;
   / &nbsp; <a href="mailto:anushkadas05das@gmail.com">email</a> &nbsp;
-  / &nbsp; <a href="https://twitter.com/anushkasys">x</a> &nbsp; / <img src="https://media.tenor.com/VPptFbj2twEAAAAi/eep-sleep.gif" width="80" align="center">
+  / &nbsp; <a href="https://twitter.com/anushkasys">x</a> &nbsp; / 
 </h3>
 
 <p align="center">
