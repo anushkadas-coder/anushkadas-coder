@@ -38,7 +38,7 @@
 *When I'm not coding, you'll probably find me drawing, winning debates, reading manga, or strumming guitars every once in a while. I'm a living proof that a human can function with black coffee as their primary blood type. My interests naturally gravitate toward anything that adds to the growing body of Human Knowledge.*<br><br/>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/OckoWxvfbagAAAAC/the-masterful-cat-is-depressed-again-today-dekiru-neko-wa-kyou-mo-yuuutsu.gif" width="400px" alt="Coding character" />
+  <img src="https://i.pinimg.com/originals/ba/38/e7/ba38e733b68b6cc7d26ab357e6fbfc1d.gif" width="400px" alt="Coding character" />
 </p>
 <h4 align="center">
   <i>sayonara!🌸</i>
