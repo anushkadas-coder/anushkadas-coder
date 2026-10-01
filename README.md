@@ -11,10 +11,10 @@
 </h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/vsl6ZcUY2mAAAAAC/kaoruko-waguri-the-fragrant-flower-blooms-with-dignity.gif" width="400px" alt="Coding character" />
+  <img src="https://i.pinimg.com/originals/44/82/46/4482463214b6660b3230af1e53fa46b7.gif" width="400px" alt="Coding character" />
 </p>
 
-<img src="https://media.tenor.com/tPfbF58mi9oAAAAm/goofy-munch.webp" width="45" align="left"> *I'm a **Software** and* **ML Engineer** *with research interests in AI/ML, building intelligent systems and full-stack AI applications that solve real-world problems through user-centric solutions. With hands-on experience in web dev, I'm an **Amazon ML Summer School (MLSS) 2026** Scholar, have won **3 hackathons** through team collaboration, and have published **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**<br>
+<img src="https://media.tenor.com/YfGWGV3YfRYAAAAi/devnature1990.gif" width="45" align="left"> *I'm a **Software** and* **ML Engineer** *with research interests in AI/ML, building intelligent systems and full-stack AI applications that solve real-world problems through user-centric solutions. With hands-on experience in web dev, I'm an **Amazon ML Summer School (MLSS) 2026** Scholar, have won **3 hackathons** through team collaboration, and have published **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**<br>
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> *Visit my* <a href="https://anushkadas-coder.github.io/">portfolio</a> here! :)<br>
 ### <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="25" align="center"> *Experience*
@@ -38,7 +38,7 @@
 *When I'm not coding, you'll probably find me drawing, winning debates, reading manga, or strumming guitars every once in a while. I'm a living proof that a human can function with black coffee as their primary blood type. My interests naturally gravitate toward anything that adds to the growing body of Human Knowledge.*<br><br/>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/frUgQhde1HcAAAAC/kaoru-hana-wa-rin-to-saku-kaoruko-waguri.gif" width="400px" alt="Coding character" />
+  <img src="https://i.pinimg.com/originals/3a/1c/6f/3a1c6f16e682310da91983340e8d6c7c.gif" width="400px" alt="Coding character" />
 </p>
 <h4 align="center">
   <i>sayonara!🌸</i>
