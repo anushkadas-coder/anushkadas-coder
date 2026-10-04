@@ -41,5 +41,5 @@
   <img src="https://i.pinimg.com/originals/ee/8e/a2/ee8ea276c8e131f0105208a85ad0890b.gif" width="400px" alt="Coding character" />
 </p>
 <h4 align="center">
-  <i>sayonara!🌸</i>
+  <i>sayonara!🤍</i>
 </h4>
