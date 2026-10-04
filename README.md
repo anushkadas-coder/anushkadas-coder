@@ -41,5 +41,5 @@
   <img src="https://media1.tenor.com/m/REufbmeZh1cAAAAd/death-note-misora.gif" width="400px" alt="Coding character" />
 </p>
 <h4 align="center">
-  <i>sayonara!🌸</i>
+  <i>sayonara!🤍</i>
 </h4>
