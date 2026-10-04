@@ -11,10 +11,10 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/_WiHC4cFu1UAAAAM/war-devil.gif" width="400px" alt="Coding character" />
+  <img src="https://media1.tenor.com/m/0eJfC-IinkgAAAAC/asa-asa-mitaka.gif" width="400px" alt="Coding character" />
 </p>
 
-<img src="https://media1.tenor.com/m/0eJfC-IinkgAAAAC/asa-asa-mitaka.gif" width="56" align="left"> *I'm a **Software** and* **ML Engineer** *with research interests in AI/ML, building intelligent systems and full-stack AI applications that solve real-world problems through user-centric solutions. With hands-on experience in web dev, I'm an **Amazon ML Summer School (MLSS) 2026** Scholar, have won **3 hackathons** through team collaboration, and have published **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**<br>
+<img src="https://media.tenor.com/EdNSlGPAZTIAAAAm/chainsaw-man-nerd.webp" width="46" align="left"> *I'm a **Software** and* **ML Engineer** *with research interests in AI/ML, building intelligent systems and full-stack AI applications that solve real-world problems through user-centric solutions. With hands-on experience in web dev, I'm an **Amazon ML Summer School (MLSS) 2026** Scholar, have won **3 hackathons** through team collaboration, and have published **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**<br>
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> *Visit my* <a href="https://anushkadas-coder.github.io/">portfolio</a> here! :)<br>
 ### <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="25" align="center"> *Experience*
