@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/oRd36p6Q448AAAAd/shelter-anime.gif" width="400px" alt="Coding character" />
+  <img src="https://i.pinimg.com/originals/c4/38/9b/c4389b42e67e277570d18eed108baf02.gif" width="400px" alt="Coding character" />
 </p>
 
 <img src="https://media.tenor.com/c3Mhr_I0hqMAAAAm/shelter-art.webp" width="85" align="left"> *I'm a **Software** and* **ML Engineer** *with research interests in AI/ML, building intelligent systems and full-stack AI applications that solve real-world problems through user-centric solutions. With hands-on experience in web dev, I'm an **Amazon ML Summer School (MLSS) 2026** Scholar, have won **3 hackathons** through team collaboration, and have published **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**<br>
