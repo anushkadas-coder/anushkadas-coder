@@ -26,7 +26,7 @@
 <br>*Implementing advanced feature engineering techniques, including TF-IDF and word representations, to extract highly predictive signals from raw dataset inputs.*<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Data Analytics Intern** *at [OASIS INFOBYTE (AICTE OIB-SIP)](#) (Jul 2026 – Aug 2026)*
 <br>*Leveraged Python, Pandas, and Scikit-learn to engineer data pipelines, perform exploratory data analysis, and build predictive models for real-world business datasets.*<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Blockchain Risk Developer** *at [Zetheta Algorithms Private Limited](#) (Jan 2026 – Feb 2026)*
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Blockchain Risk Developer** *at [Zetheta Algorithms Private Limited](#) (Jan 2026 – Mar 2026)*
 <br>*Engineered a vulnerability scanner for Solidity contracts to detect critical flaws like Reentrancy and Access Control.*<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Open-Source Contributor** *at [GSSoc '25](#) (July 2025 – Sept 2025)*
 <br>*Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub.*<br>
