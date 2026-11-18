@@ -33,7 +33,7 @@
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **open-source contributor** *at [GSSoc '25](#) (july 2025 – sept 2025)*
 <br>*resolved bugs and integrated new feature modules across 4 open-source repositories via github.*<br>
 
-**ideas i've turned into independent research:*<br>
+**ideas i've turned into independent research:** <br>
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***architectural paradigms for sovereign ai: mitigating api fragility through quantized low-rank adaptation and 1.58-bit ternary models*** *| officially lived on SSRN* | **[read paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Architectural_Paradigms_for_Sovereign_AI__Mitigating_API_Fragility_through_Quantized_Low_Rank_Adaptation_and_1_58_bit_Ternary_Models.pdf)**<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***isolating synthetic fingerprints: a frequency-domain approach to robust deepfake detection using 2d fft and lightweight cnns*** | **[read paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
