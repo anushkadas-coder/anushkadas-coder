@@ -17,7 +17,7 @@
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> *I'm a **Software** and* **ML Engineer** *building intelligent systems and full-stack AI applications that solve real-world problems. With hands-on experience in web dev, I'm an **Amazon ML Summer School (MLSS)'26** Scholar, selected for **Stanford's Code in Place'26**, a 3-time hackathon winner and the author of **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**<br>
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> *Visit my* <a href="https://anushkadas-coder.github.io/">portfolio</a> here! :)<br>
-### <img src="https://api.iconify.design/pixelarticons/briefcase.svg?color=%232EC866" width="25" align="center"> *Experience*
+### *Experience*
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Founding Engineer** *at [SF-based Startup](#) (Aug 2026 – Present)*
 <br>*contributing to performance optimizations, scalable component systems and accessibility improvements to enhance user experiences.*<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Scholar** *at [Amazon ML Summer School 2026](#)*
@@ -31,7 +31,7 @@
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Open-Source Contributor** *at [GSSoc '25](#) (July 2025 – Sept 2025)*
 <br>*Resolved bugs and integrated new feature modules across 4 open-source repositories via GitHub.*<br>
 
-### <img src="https://api.iconify.design/pixelarticons/article.svg?color=%232EC866" width="25" align="center"> *Research & Publications*
+### *Research & Publications*
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***Architectural Paradigms for Sovereign AI: Mitigating API Fragility through Quantized Low-Rank Adaptation and 1.58-bit Ternary Models*** *| Officially lived on SSRN* | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Architectural_Paradigms_for_Sovereign_AI__Mitigating_API_Fragility_through_Quantized_Low_Rank_Adaptation_and_1_58_bit_Ternary_Models.pdf)**<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***Isolating Synthetic Fingerprints: A Frequency-Domain Approach to Robust Deepfake Detection using 2D FFT and Lightweight CNNs*** | **[Read Paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
 
