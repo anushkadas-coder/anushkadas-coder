@@ -16,10 +16,10 @@
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> *i'm a **software** and* **ml engineer** *building intelligent systems and full-stack ai applications that solve real-world problems. with hands-on experience in web dev, i'm an **Amazon ml summer school (mlss)'26** scholar, selected for **Stanford's code in place'26**, a 3-time hackathon winner and the author of **2 research papers** in applied ai/ml. i'm an active member of* **Google's women techmakers** *and* **IEEE robotics and automation society on ml** *and* **NVIDIA developer community.**<br>
 
-- **where i've been building & growing:** <br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **founding engineer** *at [SF-based startup](#) (aug 2026 – present)*
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **where i've been building & growing:** <br>
+- **founding engineer** *at [SF-based startup](#) (aug 2026 – present)*
 <br>*contributing to performance optimizations, scalable component systems and accessibility improvements to enhance user experiences.*<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **scholar** *at [Amazon ml summer school 2026](#)*
+- **scholar** *at [Amazon ml summer school 2026](#)*
 <br>*gaining hands-on knowledge in advanced ml, deep learning, generative ai, and llms through sessions led by Amazon research scientists.*<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **ML Intern** *at [FlyRank AI startup](#) (jul 2026 – sept 2026)*
 <br>*implementing advanced feature engineering techniques, including tf-idf and word representations, to extract highly predictive signals from raw dataset inputs.*<br>
