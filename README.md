@@ -18,7 +18,7 @@
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> *Visit my* <a href="https://anushkadas-coder.github.io/">portfolio</a> here! :)<br>
 
-*where i've been building & growing.*
+*where i've been building & growing.* <br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Founding Engineer** *at [SF-based Startup](#) (Aug 2026 – Present)*
 <br>*contributing to performance optimizations, scalable component systems and accessibility improvements to enhance user experiences.*<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Scholar** *at [Amazon ML Summer School 2026](#)*
