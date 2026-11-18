@@ -18,7 +18,7 @@
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **where i've been building & growing:** <br>
 - **founding engineer** *at [SF-based startup](#) (aug 2026 – present)*
-<br>*contributing to performance optimizations, scalable component systems and accessibility improvements to enhance user experiences.*<br>
+<br>*contributing to performance optimizations, scalable component systems and accessibility improvements to enhance user experiences.*
 - **scholar** *at [Amazon ml summer school 2026](#)*
 <br>*gaining hands-on knowledge in advanced ml, deep learning, generative ai, and llms through sessions led by Amazon research scientists.*<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **ML Intern** *at [FlyRank AI startup](#) (jul 2026 – sept 2026)*
