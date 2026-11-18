@@ -17,7 +17,6 @@
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> *i'm a **software** and* **ml engineer** *building intelligent systems and full-stack ai applications that solve real-world problems. with hands-on experience in web dev, i'm an **Amazon ml summer school (mlss)'26** scholar, selected for **Stanford's code in place'26**, a 3-time hackathon winner and the author of **2 research papers** in applied ai/ml. i'm an active member of* **Google's women techmakers** *and* **IEEE robotics and automation society on ml** *and* **NVIDIA developer community.**<br>
 
 **where i've been building & growing:** <br>
-
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **founding engineer** *at [SF-based startup](#) (aug 2026 – present)*
 <br>*contributing to performance optimizations, scalable component systems and accessibility improvements to enhance user experiences.*<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **scholar** *at [Amazon ml summer school 2026](#)*
@@ -32,7 +31,6 @@
 <br>*resolved bugs and integrated new feature modules across 4 open-source repositories via github.*<br>
 
 **ideas i've turned into independent research:** <br>
-
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***architectural paradigms for sovereign ai: mitigating api fragility through quantized low-rank adaptation and 1.58-bit ternary models*** *| officially lived on SSRN* | **[read paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Architectural_Paradigms_for_Sovereign_AI__Mitigating_API_Fragility_through_Quantized_Low_Rank_Adaptation_and_1_58_bit_Ternary_Models.pdf)**<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> ***isolating synthetic fingerprints: a frequency-domain approach to robust deepfake detection using 2d fft and lightweight cnns*** | **[read paper <img src="https://api.iconify.design/pixelarticons/external-link.svg?color=%232EC866" width="16" align="center">](https://anushkadas-coder.github.io/Deepfake_FFT_Submission.pdf)**
 
