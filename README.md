@@ -15,7 +15,6 @@
 </p>
 
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> *I'm a **Software** and* **ML Engineer** *building intelligent systems and full-stack AI applications that solve real-world problems. With hands-on experience in web dev, I'm an **Amazon ML Summer School (MLSS)'26** Scholar, selected for **Stanford's Code in Place'26**, a 3-time hackathon winner and the author of **2 research papers** in applied AI/ML. I'm an active member of* **Google's Women Techmakers** *and* **IEEE Robotics and Automation Society on ML** *and* **NVIDIA Developer Community.**<br>
-
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> *Visit my* <a href="https://anushkadas-coder.github.io/">portfolio</a> here! :)<br>
 ### *Experience*
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **Founding Engineer** *at [SF-based Startup](#) (Aug 2026 – Present)*
