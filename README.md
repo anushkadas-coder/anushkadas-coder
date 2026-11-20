@@ -21,7 +21,7 @@
 <br>*contributing to performance optimizations, scalable component systems and accessibility improvements to enhance user experiences.*
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **scholar** *at [Amazon ml summer school 2026](#)*
 <br>*gaining hands-on knowledge in advanced ml, deep learning, generative ai, and llms through sessions led by Amazon research scientists.*<br>
-<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **ML Intern** *at [FlyRank AI startup](#) (jul 2026 – sept 2026)*
+<img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **ml intern** *at [FlyRank AI startup](#) (jul 2026 – sept 2026)*
 <br>*implementing advanced feature engineering techniques, including tf-idf and word representations, to extract highly predictive signals from raw dataset inputs.*<br>
 <img src="https://api.iconify.design/pixelarticons/chevron-right.svg?color=%232EC866" width="16" align="center"> **data analytics intern** *at [OASIS INFOBYTE (AICTE OIB-SIP)](#) (jul 2026 – aug 2026)*
 <br>*leveraged Python, Pandas, and Scikit-learn to engineer data pipelines, perform exploratory data analysis, and build predictive models for real-world business datasets.*<br>
