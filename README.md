@@ -1,4 +1,3 @@
-<h2 align="center">anushka.sys <3</h2>
 <h3 align="center">
   <i>ml engineer • aiml researcher • web developer</i>
 </h3>
